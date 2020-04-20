@@ -3,3 +3,5 @@
 data/raw_data
 data/processed_data
 data/usage-data
+data/debug.json
+data/StationData_DEBUG.json
