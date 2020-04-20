@@ -3,25 +3,26 @@ title: "BlueBikes Visualization Tool"
 author: "Kevin Johnson"
 date: "4/20/2020"
 output: pdf_document
+urlcolor: blue
 ---
 
 # Introduction
 
-As an avid cyclist myself, I was originally motivated to see what the City of Boston can do to encourage people to use cycling as their form of transportation over alternatives. Cycling usage can be seen as a self-reinforcing cycle, where more cyclists lead to increased investment in cycling infrastructure, which drives more people to chose to cycle. By identifying features of an area which drive people to chose to cycle as their mode of transportation, the city can work to highlight and improve these features.
+As an avid cyclist myself, I was originally motivated to see what the City of Boston can do to encourage people to use cycling as a form of transportation over alternatives. Cycling usage can be seen as a self-reinforcing cycle, where more cyclists lead to increased investment in cycling infrastructure, which drives more people to choose to cycle. By identifying the features of an area which drive people to chose to cycle as their mode of transportation, the city can work to highlight and improve these features.
 
-Which of the features are associated with increased ridership will likely not be novel: the fact that warmer temperatures are associated with increased ridership does not reveal new insights. What I hope to bring to the table is a discussion on the relative priorities of these features. For example, is `tree cover %` or `residential zoning %` a greater influencer on ridership? The results of this question can help set priorities for government officials who are interested in promoting healthier transportation options.
+The features associated with increased ridership are not novel: the fact that warmer temperatures are associated with increased ridership does not reveal new insights. What I hope to bring to the table is a discussion on the relative priorities of these features. For example, is `tree cover %` or `residential zoning %` a greater influence on ridership? The results of this question can help set priorities for government officials who are interested in promoting healthier transportation options.
 
-To answer these questions, I have developed [a tool](https://bikes.kj800x.com/) which complies and aggregates information about all of the trips that were taken in 2019. For each trip, I have augmented it with the weather report for that day along with census tract statistics about the starting station's area. This tool is available online for anyone to use and explore the data on their own. By allowing users to explore the data on their own, my conclusions are easily repeatable and verifiable. The tool is currently available online at [https://bikes.kj800x.com/](https://bikes.kj800x.com/).
+To answer these questions, I have developed [a tool](https://bikes.kj800x.com/) which compiles and aggregates information about all BlueBikes trips which were taken in 2019. For each trip, I have augmented it with the weather report for that day along with census tract statistics about the starting station's area. This tool is available online for anyone to use and explore the data on their own. By allowing users to explore the data on their own, my conclusions are easily repeatable and verifiable. The tool is currently available online at [https://bikes.kj800x.com/](https://bikes.kj800x.com/).
 
 ## Research Questions
 
-When designing my tool, I first considered the types of questions that I would want to be able to use it to explore and answer:
+When designing my tool, I first considered the types of questions that I would want to explore and answer:
 
 - Do people bike more in areas with more tree coverage?
-- Does the weather affect whether or not people ride and does it adversely affect certain groups more?
-- Are commuters a notable portion of the BlueBikes user base?
-- Are there trends in when people are leaving residential zones vs commercial zones?
-- Are there notable changes in the Rider Age or Duration distribution in winter months?
+- Does the weather affect whether or not people ride?
+- Are particular groups (e.g. commuters) a notable portion of the BlueBikes user base?
+- Does the zoning of the buildings around a station affect ridership?
+- Are there notable changes in the Rider Age or Duration distribution seasonally?
 
 To this end, I consider myself successful in developing such a tool.
 
@@ -63,7 +64,7 @@ For example, using the census tracts, we can run an aggregation which takes all 
 
 ### Bluebikes Station Data
 
-Important for correlating the usage data with census tracts, the [station lookup table](https://s3.amazonaws.com/hubway-data/index.html) `current_bluebikes_stations.csv` is provided by [the BlueBikes company](https://www.bluebikes.com/system-data) and includes the latitude and longitude for each station. I have done additional processing on this data to identify the census tract containing each station.
+Important for correlating the usage data with census tracts, [the BlueBikes company](https://www.bluebikes.com/system-data) provides a [station lookup table](https://s3.amazonaws.com/hubway-data/index.html) which includes the latitude and longitude for each station. I have done additional processing on this data to identify the census tract containing each station to be used in further correlations with other datasets.
 
 ### Boston Zoning Data
 
@@ -111,6 +112,30 @@ The real value of this application is to watch what happens to the distributions
 
 The tool can provide value to a diverse set of people. BlueBikes staff and city planners can benefit from the tool by exploring the characteristics of neighborhoods where BlueBikes has been historically successful. The zoning information is an example of neighborhood-level statistics which this tool can explore. There is potential for this tool to be revised to potentially include other datasets of interest, and this tool can serve as a proof-of-concept that such a tool can be easily and rapidly developed. Understanding these characteristics of a successful BlueBikes neighborhood can help determine the value of future BlueBikes stations. For example, city planners can use the information they learn from this tool to guide their decisions to accept or reject proposals to new BlueBikes stations. An interested person could filter the existing data to match the characteristics of a proposed station to explore the ridership that the station would expect to see over time.
 
+## Sample Results
+
+To demonstrate how the tool delivers value, we can use it to briefly explore the research questions that I have posed.
+
+- Do people bike more in areas with more tree coverage?
+  - By varying a window in `Starting Tract % Tree Canopy`, there are no notable visual changes to the other distributions. It would seem that tree coverage does not affect ridership, although this exploration is limited by the fact that tree cover is not particularly variable in Boston.
+- Does the weather affect whether or not people ride?
+  - Looking at changes in `Precipitation`, if we compare rides with no precipitation to rides with precipitation, we notice a change in the membership status. It appears that guest riders would simply chose not to ride if it is rainy.
+  - `Average Wind` doesn't appear to have a significant effect on any of the other distributions, which was surprising to me since a high wind is one of the most unpleasant aspects of riding for me personally. 
+  - `Temperature` is correlated with changes in `Duration` and `Rider Age`. Younger people prefer to bike when the weather is warmer, and warmer weather is also correlated to higher average duration.
+- Are particular groups (e.g. commuters) a notable portion of the BlueBikes user base?
+  - Immediately upon loading the tool we see large spikes in ridership near the morning and evening commutes. We notice that as age nears retirement these peaks become less prominent. Additionally, if we compare weekdays versus weekends, we notice that these spikes are not present on weekends. This leads us to conclude that these spikes are due to commuter behavior.
+- Does the zoning of the buildings around a station affect ridership?
+  - While the `% Commercial` and `% Industrial` dimensions don't appear to have notable changes in the shape of ridership distributions, the `% Residential` clearly shows that riders are departing high residential zones in the morning and then departing low residential zones in the evening. This is consistent with our theory on commuting riders.
+- Are there notable changes in the `Rider Age` or `Duration` distribution seasonally?
+  - By varying the filter of the `Date` graph, we see a strong change in the shape of the `Duration` distribution in summer months. It's also possible to see a slight preference towards younger riders in summer months. We can also see that nonmembers and female riders are more likely to ride in summer months than winter months.
+
+In exploring the data, there were other notable findings that I discovered which didn't relate directly to one of my research questions.
+
+- If we filter only to rides taken after 10pm, we see that there is a huge spike on July 4th rides.
+- Nonmembers are much more likely to ride on specific days (July 4th, and a day in early-mid august). Nonmembers also prefer to ride on weekends, whereas members ride during the week.
+- Riders older than 50 are much more likely to be members than other groups.
+- There is a very strong relationship between lack of membership and ride duration.
+
 ## Privacy
 
 This project strives to respect the privacy of those represented by the datasets. Most of the data is aggregated on a census-tract level. The trip data is provided on an individual trip level, but it is provided by BlueBikes anonymized, and my tool provides an even smaller subset of the data that BlueBikes provides. It would be extremely difficult or impossible to identify the trips taken by a particular person.
@@ -119,17 +144,12 @@ This project strives to respect the privacy of those represented by the datasets
 
 Although the tool is successful and effective, I believe there are potential areas for improvement.
 
-I would have liked to have also included a heatmap view of trips overlaid upon a geographical map of Boston. I think this would have been a compelling visualization which I wasn't able to include.
-
-I would have liked to include a visual representation of the mean and standard deviation on top of the graphs. This would have enhanced the ability of the tool to demonstrate changes in distribution shape.
-
-The precipitation dimension isn't particularly useful as-is, because it is dominated by days with no precipitation. I think it might have made more sense to consider that dimension as a boolean where it either did rain or didn't rain on a particular day.
-
-Percent canopy wasn't as useful as I had expected, but it seems like this might be due to the BARI data I have, or mainly because of the fact that there actually isn't as much variation on tree cover between the different tracts of Boston
-
-Percent industrial and commercial (to a lesser degree) are also less valuable dimensions, since Boston has a smaller variability among them.
-
-Although I have uniformly sampled the data so that the tool will load into most user's browsers fast, certain users might be interested in an un-sampled or an alternate sampling percentage version of the data. I would like to be able to offer this alternate dataset to them easily.
+- I would have liked to have also included a heatmap view of trips overlaid upon a geographical map of Boston. I think this would have been a compelling visualization which I wasn't able to include.
+- I would have liked to include a visual representation of the mean and standard deviation on top of the graphs. This would have enhanced the ability of the tool to demonstrate changes in distribution shape.
+- The precipitation dimension isn't particularly useful as-is, because it is dominated by days with no precipitation. I think it might have made more sense to consider that dimension as a boolean where it either did rain or didn't rain on a particular day.
+- Percent canopy wasn't as useful as I had expected, but it seems like this might be due to the BARI data I have, or mainly because of the fact that there actually isn't as much variation on tree cover between the different tracts of Boston
+- Percent industrial and commercial (to a lesser degree) are also less valuable dimensions, since Boston has a smaller variability among them.
+- Although I have uniformly sampled the data so that the tool will load into most user's browsers fast, certain users might be interested in an un-sampled or an alternate sampling percentage version of the data. I would like to be able to offer this alternate dataset to them easily.
 
 # Conclusions
 
