@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BlueBikes Visualization 2019</title>
+    <script src="/node_modules/d3/dist/d3.min.js"></script>
+    <script src="/node_modules/crossfilter2/crossfilter.js"></script>
+    <script src="/visualizer.js"></script>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <h1>BlueBikes Visualization for Year of 2019</h1>
+    <h3>Kevin Johnson Bostonography Final Project</h3>
+
+    <div id="charts">
+      <div id="hour-chart" class="chart">
+        <div class="title">Time of Day</div>
+      </div>
+      <div id="dow-chart" class="chart">
+        <div class="title">Day of Week</div>
+      </div>
+      <div id="duration-chart" class="chart">
+        <div class="title">Duration</div>
+      </div>
+      <div id="age-chart" class="chart">
+        <div class="title">Age</div>
+      </div>
+      <!-- <div id="gender-chart" class="chart">
+        <div class="title">Gender</div>
+      </div> -->
+      <div id="date-chart" class="chart">
+        <div class="title">Date</div>
+      </div>
+      <!-- <div id="precip-chart" class="chart">
+        <div class="title">Precipitation</div>
+      </div> -->
+      <div id="temp-chart" class="chart">
+        <div class="title">Temperature</div>
+      </div>
+      <div id="wind-chart" class="chart">
+        <div class="title">Wind</div>
+      </div>
+      <div id="canopyPercent-chart" class="chart">
+        <div class="title">Start Station Tract Tree Canopy</div>
+      </div>
+      <div id="res-chart" class="chart">
+        <div class="title">Start Station Tract Residential</div>
+      </div>
+      <div id="com-chart" class="chart">
+        <div class="title">Start Station Tract Commercial</div>
+      </div>
+      <div id="ind-chart" class="chart">
+        <div class="title">Start Station Tract Industrial</div>
+      </div>
+    </div>
+    <aside id="totals">
+      <span id="active">-</span> of <span id="total">-</span> trips selected.
+    </aside>
+    <div id="lists">
+      <div id="trip-list" class="list"></div>
+    </div>
+  </body>
+</html>

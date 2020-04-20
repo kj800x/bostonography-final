@@ -1,0 +1,5 @@
+**/node_modules
+**/trips.json
+data/raw_data
+data/processed_data
+data/usage-data

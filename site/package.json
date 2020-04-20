@@ -1,0 +1,15 @@
+{
+  "name": "trip_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "visualizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crossfilter2": "^1.5.2",
+    "d3": "^5.15.1"
+  }
+}
