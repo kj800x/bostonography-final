@@ -1,20 +1,105 @@
 <html>
   <head>
     <title>Bostonography Final Project</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/cssUtils.css" />
   </head>
 
   <body>
-    <h1>Bostonography Final Project</h1>
+    <nav>
+      <a href="/">Project</a>
+      <span>About</span>
+      <a href="/report.pdf">Report</a>
+    </nav>
+    <h1 class="text-center">BlueBikes Visualization for Year of 2019</h1>
     <h2>About</h2>
-    <h3>Attribution</h3>
-    <h4>Data</h4>
-    <div>
-    <p>This project aggregated and utilized many data sources</p>
+    <p>
+      This site is my final project for the Spring 2020 section of NEU's
+      Bostonography. As part of this project, I aggregated data from multiple
+      different sources and correlated them based on location and time. The main
+      source of information was the BlueBikes usage data, to which I correlated
+      with weather data from NOAA, tree cover data from BARI, and data from the
+      Boston zoning laws. A uniform sampling of trips from 2019 are loaded into
+      <a href="/">the project</a> which uses the
+      <a href="https://d3js.org/">D3.js</a> and
+      <a href="https://github.com/crossfilter/crossfilter">Crossfilter</a>
+      libraries to allow users to explore the data visually.
+    </p>
+    <p>
+      The source code for the project is made freely available on
+      <a href="https://github.com/kj800x/bostonography-final">GitHub</a>. This
+      includes the
+      <a href="https://github.com/kj800x/bostonography-final/tree/master/data"
+        >data fetching and manipulation code</a
+      >,
+      <a href="https://github.com/kj800x/bostonography-final/tree/master/site"
+        >this site's source code</a
+      >, and the
+      <a href="https://github.com/kj800x/bostonography-final/tree/master/report"
+        >source code for my report</a
+      >.
+    </p>
+    <h3>Source Attribution</h3>
+    <h4>Libraries</h4>
     <ul>
-      <li></li>
+      <li><a href="https://d3js.org/">D3.js</a> visualization library</li>
+      <li>
+        <a href="https://github.com/crossfilter/crossfilter">Crossfilter</a>
+        multidimensional filtering library
+      </li>
+      <li>
+        <a href="https://github.com/topojson/topojson-client"
+          >Topojson-client</a
+        >
+        to convert betwen TopoJSON and GeoJSON
+      </li>
+      <li>
+        <a href="https://csv.js.org/stringify/">Csv-stringify</a> to generate
+        CSVs
+      </li>
     </ul>
+    <h4>Datasets</h4>
+    <div>
+      <ul>
+        <li>
+          <a href="https://www.bluebikes.com/system-data"
+            >BlueBikes Usage and Station Location Data</a
+          >
+        </li>
+        <li>
+          <a href="https://data.boston.gov/dataset/census-2010-tracts"
+            >Boston Census Tract Shapefile Data</a
+          >
+        </li>
+        <li>
+          <a
+            href="http://mapservices.bostonredevelopmentauthority.org/arcgis/rest/services/Maps/Bos_Zoning_LU/MapServer"
+            >Boston Zoning Data</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://worldmap.harvard.edu/data/geonode:tree_canopy_fraction_census_tracts_wa8"
+            >BARI Tree Cover Data</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.ncdc.noaa.gov/cdo-web/orders?email=johnson.kevi@husky.neu.edu&id=2101904"
+            >NOAA Weather Data</a
+          >
+        </li>
+      </ul>
     </div>
-    <h4>Icons</h4>
-    <div>Favicon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <h4>Favicon</h4>
+    <div>
+      <a href="https://www.freepik.com/free-icon/bike_942047.htm">Favicon</a>
+      made by
+      <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
+        >Freepik</a
+      >
+      from
+      <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+    </div>
   </body>
 </html>

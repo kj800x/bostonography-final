@@ -151,3 +151,20 @@ aside {
 #totals {
   display: none;
 }
+
+nav {
+  border-bottom: 1px solid white;
+  display: flex;
+}
+
+nav > a,
+nav > span {
+  padding: 0 20px;
+  text-decoration: none;
+  line-height: 40px;
+  /* border-right: 4px solid white; */
+}
+
+a {
+  color: mediumslateblue;
+}
