@@ -1,7 +1,7 @@
 body {
   font-family: "Helvetica Neue";
   margin: 40px auto;
-  width: 960px;
+  width: 1200px;
   min-height: 2000px;
   background: #212121;
   color: white;
@@ -143,8 +143,11 @@ h2 {
 }
 
 aside {
-  position: absolute;
-  left: 740px;
+  display: flex;
   font-size: smaller;
-  width: 220px;
+}
+
+#charts,
+#totals {
+  display: none;
 }

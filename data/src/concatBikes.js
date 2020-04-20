@@ -14,7 +14,7 @@ const sample = (skip) => (data) => {
   return data.filter((_, i) => i % skip === 0);
 };
 
-const SAMPLE_RATE = 1; // Only 1 in SAMPLE_RATE trips will be included, otherwise we run out of memory on my computer
+const SAMPLE_RATE = 10; // Only 1 in SAMPLE_RATE trips will be included, otherwise we run out of memory on my computer
 
 function process(data, stationData) {
   data = sample(SAMPLE_RATE)(data);
@@ -68,14 +68,11 @@ function filter(data) {
       return [
         +trip.tripduration,
         new Date(trip.starttime).getTime(),
-        // trip.stoptime,
         +trip["start station id"],
-        // trip["start station name"],
         +trip["end station id"],
-        // trip["end station name"],
-        trip.usertype === "Subscriber" ? "S" : "C", // Subscriber or Customer but short
+        trip.usertype === "Subscriber" ? 1 : 0,
         riderAge,
-        +trip.gender === 1 ? "M" : +trip.gender === 2 ? "F" : "?",
+        +trip.gender,
         +trip.weather.AvgWind,
         +trip.weather.Precip,
         +trip.weather.TempAvg,
@@ -90,11 +87,14 @@ function filter(data) {
 async function main() {
   const stationData = buildStationMapping();
 
-  fs.writeFileSync("./debug.json", JSON.stringify(stationData, null, 2));
+  fs.writeFileSync(
+    "./StationData_DEBUG.json",
+    JSON.stringify(stationData, null, 2)
+  );
   let results = [];
 
   for (let file of files) {
-    console.log("processing", file);
+    console.log("Processing", file);
     results = [
       ...results,
       ...filter(process(csvParse(fs.readFileSync(file, "utf-8")), stationData)),
@@ -102,6 +102,9 @@ async function main() {
   }
 
   fs.writeFileSync("./trips.json", JSON.stringify(results));
+  fs.writeFileSync("../site/trips.json", JSON.stringify(results));
+
+  return "Done!";
 }
 
 main().then(console.log).catch(console.error);

@@ -1,0 +1,4474 @@
+[
+  {
+    "tractId": 181,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.2311807754143891,
+      "percentCommercial": 0.33223537946441895,
+      "percentIndustrial": 0.04172968484423853
+    },
+    "Number": "A32019",
+    "Name": "175 N Harvard St",
+    "Latitude": "42.363796",
+    "Longitude": "-71.129164",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "Number": "S32035",
+    "Name": "191 Beacon St",
+    "Latitude": "42.3803233505",
+    "Longitude": "-71.1087861286",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32023",
+    "Name": "30 Dane St",
+    "Latitude": "42.3810014304",
+    "Longitude": "-71.1040252261",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32026",
+    "Name": "359 Broadway - Broadway at Fayette Street",
+    "Latitude": "42.370803",
+    "Longitude": "-71.104412",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "Number": "M32054",
+    "Name": "699 Mt Auburn St",
+    "Latitude": "42.3750023514",
+    "Longitude": "-71.148716137",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "25"
+  },
+  {
+    "tractId": 11,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.0319932962382246,
+      "percentCommercial": 0.2814460418779376,
+      "percentIndustrial": 0
+    },
+    "Number": "B32060",
+    "Name": "700 Commonwealth Ave.",
+    "Latitude": "42.3496094533",
+    "Longitude": "-71.103915237",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "12"
+  },
+  {
+    "Number": "M32060",
+    "Name": "700 Huron Ave",
+    "Latitude": "42.3807881729",
+    "Longitude": "-71.1541289091",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32064",
+    "Name": "75 Binney St",
+    "Latitude": "42.3655072851",
+    "Longitude": "-71.0801375998",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32058",
+    "Name": "84 Cambridgepark Dr",
+    "Latitude": "42.3936",
+    "Longitude": "-71.143941",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "25"
+  },
+  {
+    "tractId": 42,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.8933847540816342,
+      "percentCommercial": 0.020161869874172383,
+      "percentIndustrial": 0
+    },
+    "Number": "C32065",
+    "Name": "Adams St at Lonsdale St",
+    "Latitude": "42.2916794287",
+    "Longitude": "-71.0572634641",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 138,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.5366828241778893,
+      "percentCommercial": 0.09788916530295029,
+      "percentIndustrial": 0.001832011140791276
+    },
+    "Number": "A32032",
+    "Name": "Airport T Stop - Bremen St at Brooks St",
+    "Latitude": "42.3740832025",
+    "Longitude": "-71.0327418508",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "11"
+  },
+  {
+    "tractId": 67,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.16418482152109073,
+      "percentCommercial": 0.3172799216603933,
+      "percentIndustrial": 0.04030307122442012
+    },
+    "Number": "C32061",
+    "Name": "Albany St at E. Brookline St",
+    "Latitude": "42.3366479543",
+    "Longitude": "-71.0689445958",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32046",
+    "Name": "Alewife MBTA at Steel Place",
+    "Latitude": "42.3955884572",
+    "Longitude": "-71.1426061392",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32033",
+    "Name": "Alewife Station at Russell Field",
+    "Latitude": "42.396105",
+    "Longitude": "-71.139459",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 83,
+    "tractMetadata": {
+      "CanopyPercent": 0.17,
+      "percentResidential": 0.7531101871736189,
+      "percentCommercial": 0.10556773009447634,
+      "percentIndustrial": 0
+    },
+    "Number": "C32079",
+    "Name": "American Legion Hwy at Canterbury St",
+    "Latitude": "42.2788115816",
+    "Longitude": "-71.1168770306",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32059",
+    "Name": "Ames St at Broadway",
+    "Latitude": "42.3636929",
+    "Longitude": "-71.0875672",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32037",
+    "Name": "Ames St at Main St",
+    "Latitude": "42.3625",
+    "Longitude": "-71.08822",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 125,
+    "tractMetadata": {
+      "percentResidential": 0.09017242677977022,
+      "percentCommercial": 0.28251685951048106,
+      "percentIndustrial": 0.07172412883820632
+    },
+    "Number": "C32012",
+    "Name": "Andrew T Stop - Dorchester Ave at Dexter St",
+    "Latitude": "42.3304736504",
+    "Longitude": "-71.0570168495",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "B32004",
+    "Name": "Aquarium T Stop - 200 Atlantic Ave",
+    "Latitude": "42.3599117611",
+    "Longitude": "-71.0514298081",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "D32004",
+    "Name": "Arch St at Franklin St",
+    "Latitude": "42.3553350194",
+    "Longitude": "-71.0582291708",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "tractId": 94,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.5148664297246144,
+      "percentCommercial": 0.11764657790711591,
+      "percentIndustrial": 0.013630080554237336
+    },
+    "Number": "C32048",
+    "Name": "Archdale Rd at Washington St",
+    "Latitude": "42.2926659287",
+    "Longitude": "-71.1211953871",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "tractId": 41,
+    "tractMetadata": {
+      "CanopyPercent": 0.2,
+      "percentResidential": 0.37143529214883486,
+      "percentCommercial": 0.052240725513706225,
+      "percentIndustrial": 0
+    },
+    "Number": "C32062",
+    "Name": "Ashmont T Stop",
+    "Latitude": "42.2856944",
+    "Longitude": "-71.0641389",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32018",
+    "Name": "Assembly Square T",
+    "Latitude": "42.39223284",
+    "Longitude": "-71.077466011",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 11,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.0319932962382246,
+      "percentCommercial": 0.2814460418779376,
+      "percentIndustrial": 0
+    },
+    "Number": "A32003",
+    "Name": "B.U. Central - 725 Comm. Ave.",
+    "Latitude": "42.350406",
+    "Longitude": "-71.108279",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "11"
+  },
+  {
+    "tractId": 155,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.17870098102602763,
+      "percentCommercial": 0.5408464070532638,
+      "percentIndustrial": 0
+    },
+    "Number": "C32003",
+    "Name": "Back Bay T Stop - Dartmouth St at Stuart St",
+    "Latitude": "42.3480741232",
+    "Longitude": "-71.0765701532",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32007",
+    "Name": "Ball Sq",
+    "Latitude": "42.3978221262",
+    "Longitude": "-71.1060666978",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 92,
+    "tractMetadata": {
+      "CanopyPercent": 0.15,
+      "percentResidential": 0.5343856783275827,
+      "percentCommercial": 0.03355530833700026,
+      "percentIndustrial": 0.0023471569016954032
+    },
+    "Number": "B32055",
+    "Name": "Bartlett St at John Elliot Sq",
+    "Latitude": "42.3294633",
+    "Longitude": "-71.0901582",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 50,
+    "tractMetadata": {
+      "CanopyPercent": 0.23,
+      "percentResidential": 0,
+      "percentCommercial": 0,
+      "percentIndustrial": 0
+    },
+    "Number": "D32024",
+    "Name": "Beacon St at Charles St",
+    "Latitude": "42.356052",
+    "Longitude": "-71.069849",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 7,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.30471746985049786,
+      "percentCommercial": 0.16528347418964998,
+      "percentIndustrial": 0.002186948112489835
+    },
+    "Number": "B32016",
+    "Name": "Beacon St at Massachusetts Ave",
+    "Latitude": "42.3508268067",
+    "Longitude": "-71.089810878",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "Number": "K32002",
+    "Name": "Beacon St at Tappan St",
+    "Latitude": "42.3382668006",
+    "Longitude": "-71.1389468203",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32003",
+    "Name": "Beacon St at Washington / Kirkland",
+    "Latitude": "42.37842",
+    "Longitude": "-71.105668",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 16,
+    "tractMetadata": {
+      "CanopyPercent": 0.16,
+      "percentResidential": 0.6755447778888393,
+      "percentCommercial": 0.04400253695685684,
+      "percentIndustrial": 0.0045405593215063125
+    },
+    "Number": "C32059",
+    "Name": "Belgrade Ave at Walworth St",
+    "Latitude": "42.2863458949",
+    "Longitude": "-71.1367212983",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 149,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.34038924337134363,
+      "percentCommercial": 0.4354061624650213,
+      "percentIndustrial": 0.00826496361768785
+    },
+    "Number": "A32028",
+    "Name": "Bennington St at Byron St",
+    "Latitude": "42.3835325201",
+    "Longitude": "-71.0161909461",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 149,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.34038924337134363,
+      "percentCommercial": 0.4354061624650213,
+      "percentIndustrial": 0.00826496361768785
+    },
+    "Number": "A32039",
+    "Name": "Bennington St at Constitution Beach",
+    "Latitude": "42.3852239359",
+    "Longitude": "-71.0106306897",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "Number": "M32067",
+    "Name": "Berkshire Street at Cambridge Street",
+    "Latitude": "42.3720765792",
+    "Longitude": "-71.0899543391",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32027",
+    "Name": "Binney St / Sixth St",
+    "Latitude": "42.3660879739",
+    "Longitude": "-71.0863360391",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 177,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.3905630659231118,
+      "percentCommercial": 0.16165367198941416,
+      "percentIndustrial": 0
+    },
+    "Number": "D32050",
+    "Name": "Blossom St at Charles St",
+    "Latitude": "42.3643558903",
+    "Longitude": "-71.0695936904",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 36,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.7126457747221894,
+      "percentCommercial": 0.07506991329512039,
+      "percentIndustrial": 0
+    },
+    "Number": "C32044",
+    "Name": "Blue Hill Ave at Almont St",
+    "Latitude": "42.2746206718",
+    "Longitude": "-71.0937255249",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 89,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.7696307329240695,
+      "percentCommercial": 0.1384838452482874,
+      "percentIndustrial": 0.012281095405791555
+    },
+    "Number": "B32057",
+    "Name": "Blue Hill Ave at Southwood St",
+    "Latitude": "42.3178602059",
+    "Longitude": "-71.0779862853",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "B32008",
+    "Name": "Boston City Hall - 28 State St",
+    "Latitude": "42.35892",
+    "Longitude": "-71.057629",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "21"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "D32018",
+    "Name": "Boston Convention and Exhibition Center - Summer St at West Side Dr",
+    "Latitude": "42.3477634541",
+    "Longitude": "-71.0453599691",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 142,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1589680722041917,
+      "percentCommercial": 0.36016637646473193,
+      "percentIndustrial": 0.019792536674368907
+    },
+    "Number": "A32036",
+    "Name": "Boston East - 126 Border St",
+    "Latitude": "42.3733121258",
+    "Longitude": "-71.0410200806",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 181,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.2311807754143891,
+      "percentCommercial": 0.33223537946441895,
+      "percentIndustrial": 0.04172968484423853
+    },
+    "Number": "A32045",
+    "Name": "Boston Landing",
+    "Latitude": "42.3565609231",
+    "Longitude": "-71.1416753755",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 108,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.29500131614712827,
+      "percentCommercial": 0.10482690986237633,
+      "percentIndustrial": 0.0009386115625225195
+    },
+    "Number": "C32002",
+    "Name": "Boston Medical Center - E Concord St at Harrison Ave",
+    "Latitude": "42.3363991537",
+    "Longitude": "-71.0730671139",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "D32044",
+    "Name": "Boston Public Market",
+    "Latitude": "42.3625485441",
+    "Longitude": "-71.0573735833",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 61,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.6596977227469007,
+      "percentCommercial": 0.1714803534419268,
+      "percentIndustrial": 0.010901234153076188
+    },
+    "Number": "B32031",
+    "Name": "Bowdoin St at Quincy St",
+    "Latitude": "42.3078522424",
+    "Longitude": "-71.0651224852",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 50,
+    "tractMetadata": {
+      "CanopyPercent": 0.23,
+      "percentResidential": 0,
+      "percentCommercial": 0,
+      "percentIndustrial": 0
+    },
+    "Number": "D32007",
+    "Name": "Boylston St at Arlington St",
+    "Latitude": "42.3525877951",
+    "Longitude": "-71.0676490517",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 4,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.4430299586080941,
+      "percentCommercial": 0.3514258914188841,
+      "percentIndustrial": 0
+    },
+    "Number": "D32013",
+    "Name": "Boylston St at Berkeley St",
+    "Latitude": "42.3511419825",
+    "Longitude": "-71.0732924938",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 4,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.4430299586080941,
+      "percentCommercial": 0.3514258914188841,
+      "percentIndustrial": 0
+    },
+    "Number": "D32027",
+    "Name": "Boylston St at Dartmouth St",
+    "Latitude": "42.350413",
+    "Longitude": "-71.07655",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 4,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.4430299586080941,
+      "percentCommercial": 0.3514258914188841,
+      "percentIndustrial": 0
+    },
+    "Number": "D32046",
+    "Name": "Boylston St at Exeter St",
+    "Latitude": "42.3495894237",
+    "Longitude": "-71.0794677917",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 97,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.5688884350619519,
+      "percentCommercial": 0.3582821924499207,
+      "percentIndustrial": 0
+    },
+    "Number": "C32008",
+    "Name": "Boylston St at Fairfield St",
+    "Latitude": "42.348762",
+    "Longitude": "-71.082383",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "tractId": 81,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.3431500733994602,
+      "percentCommercial": 0.5758408956911351,
+      "percentIndustrial": 0.0010749638915800758
+    },
+    "Number": "B32034",
+    "Name": "Boylston St at Jersey St",
+    "Latitude": "42.3446506289",
+    "Longitude": "-71.0973250123",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 81,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.3431500733994602,
+      "percentCommercial": 0.5758408956911351,
+      "percentIndustrial": 0.0010749638915800758
+    },
+    "Number": "B32018",
+    "Name": "Boylston St at Massachusetts Ave",
+    "Latitude": "42.347265",
+    "Longitude": "-71.088088",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 179,
+    "tractMetadata": {
+      "CanopyPercent": null,
+      "percentResidential": 0.26656176988775526,
+      "percentCommercial": 0.075206425169844,
+      "percentIndustrial": 0
+    },
+    "Number": "B32013",
+    "Name": "Brigham Circle - Francis St at Huntington Ave",
+    "Latitude": "42.3346289306",
+    "Longitude": "-71.1040791777",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 166,
+    "tractMetadata": {
+      "CanopyPercent": 0.09,
+      "percentResidential": 0.33318783130674473,
+      "percentCommercial": 0.27058571907610063,
+      "percentIndustrial": 0
+    },
+    "Number": "D32028",
+    "Name": "Brighton Center - Washington St at Cambridge St",
+    "Latitude": "42.3489485724",
+    "Longitude": "-71.1502718925",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 181,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.2311807754143891,
+      "percentCommercial": 0.33223537946441895,
+      "percentIndustrial": 0.04172968484423853
+    },
+    "Number": "A32005",
+    "Name": "Brighton Mills - 370 Western Ave",
+    "Latitude": "42.3615457082",
+    "Longitude": "-71.1377620697",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32011",
+    "Name": "Broadway at Beacham St",
+    "Latitude": "42.3983605962",
+    "Longitude": "-71.0637384281",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32016",
+    "Name": "Broadway at Central St",
+    "Latitude": "42.3951715012",
+    "Longitude": "-71.0985059198",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32004",
+    "Name": "Broadway at Lynde St",
+    "Latitude": "42.3964835825",
+    "Longitude": "-71.0654675991",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32008",
+    "Name": "Broadway at Maple St",
+    "Latitude": "42.4103469098",
+    "Longitude": "-71.0526045785",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "Number": "S32014",
+    "Name": "Broadway St at Mt Pleasant St",
+    "Latitude": "42.3861414116",
+    "Longitude": "-71.0782814026",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 125,
+    "tractMetadata": {
+      "percentResidential": 0.09017242677977022,
+      "percentCommercial": 0.28251685951048106,
+      "percentIndustrial": 0.07172412883820632
+    },
+    "Number": "C32053",
+    "Name": "Broadway T Stop",
+    "Latitude": "42.3427811622",
+    "Longitude": "-71.0574727507",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "K32005",
+    "Name": "Brookline Town Hall",
+    "Latitude": "42.3337647262",
+    "Longitude": "-71.1204644666",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "K32003",
+    "Name": "Brookline Village - Station Street at MBTA",
+    "Latitude": "42.332743923",
+    "Longitude": "-71.1162668095",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 165,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10870714112667518,
+      "percentCommercial": 0.3464454345764156,
+      "percentIndustrial": 0.06560349176031781
+    },
+    "Number": "A32023",
+    "Name": "Bunker Hill Community College",
+    "Latitude": "42.3740899143",
+    "Longitude": "-71.069059968",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 5,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.20459545343765365,
+      "percentCommercial": 0.2388022241034117,
+      "percentIndustrial": 0
+    },
+    "Number": "B32020",
+    "Name": "Burlington Ave at Brookline Ave",
+    "Latitude": "42.345733",
+    "Longitude": "-71.100694",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32052",
+    "Name": "Cambridge Dept. of Public Works -147 Hampshire St.",
+    "Latitude": "42.3711972776",
+    "Longitude": "-71.0975986719",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32013",
+    "Name": "Cambridge Main Library at Broadway / Trowbridge St",
+    "Latitude": "42.373379",
+    "Longitude": "-71.111075",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32007",
+    "Name": "Cambridge St - at Columbia St / Webster Ave",
+    "Latitude": "42.372969",
+    "Longitude": "-71.094445",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 177,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.3905630659231118,
+      "percentCommercial": 0.16165367198941416,
+      "percentIndustrial": 0
+    },
+    "Number": "D32000",
+    "Name": "Cambridge St at Joy St",
+    "Latitude": "42.3612116531",
+    "Longitude": "-71.0653061979",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32019",
+    "Name": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+    "Latitude": "42.366981",
+    "Longitude": "-71.076472",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 40,
+    "tractMetadata": {
+      "CanopyPercent": 0.16,
+      "percentResidential": 0.7215865032312168,
+      "percentCommercial": 0.09038839640732206,
+      "percentIndustrial": 0.0016079474009976175
+    },
+    "Number": "C32088",
+    "Name": "Central Ave at River St",
+    "Latitude": "42.2709470703",
+    "Longitude": "-71.0733790141",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32012",
+    "Name": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+    "Latitude": "42.366426",
+    "Longitude": "-71.105495",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "Number": "M32011",
+    "Name": "Central Square at Mass Ave / Essex St",
+    "Latitude": "42.36507",
+    "Longitude": "-71.1031",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 143,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.8028049694882206,
+      "percentCommercial": 0.11500238703274612,
+      "percentIndustrial": 0.004396959345148608
+    },
+    "Number": "A32041",
+    "Name": "Central Square East Boston",
+    "Latitude": "42.3754491255",
+    "Longitude": "-71.0391854868",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 25,
+    "tractMetadata": {
+      "CanopyPercent": 0.21,
+      "percentResidential": 0.7118559935761918,
+      "percentCommercial": 0.023008844794988655,
+      "percentIndustrial": 0.004357336729665385
+    },
+    "Number": "C32086",
+    "Name": "Centre St at Parkway YMCA",
+    "Latitude": "42.2827790107",
+    "Longitude": "-71.1572885142",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 113,
+    "tractMetadata": {
+      "CanopyPercent": 0.25,
+      "percentResidential": 0.8861517395603299,
+      "percentCommercial": 0.06210629388454939,
+      "percentIndustrial": 0
+    },
+    "Number": "E32008",
+    "Name": "Centre St at Seaverns Ave",
+    "Latitude": "42.3121203",
+    "Longitude": "-71.1142981",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 26,
+    "tractMetadata": {
+      "CanopyPercent": 0.17,
+      "percentResidential": 0.8532268374320083,
+      "percentCommercial": 0.07845598082555666,
+      "percentIndustrial": 0.0011694214174875592
+    },
+    "Number": "C32085",
+    "Name": "Centre St at W. Roxbury Post Office",
+    "Latitude": "42.2863319911",
+    "Longitude": "-71.1534475537",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 154,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.7575892652658872,
+      "percentCommercial": 0.11683886680880863,
+      "percentIndustrial": 0
+    },
+    "Number": "D32016",
+    "Name": "Charles Circle - Charles St at Cambridge St",
+    "Latitude": "42.3607929686",
+    "Longitude": "-71.0711896234",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 178,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.9004453431523838,
+      "percentCommercial": 0.09226974420270456,
+      "percentIndustrial": 0
+    },
+    "Number": "D32051",
+    "Name": "Charles St at Pinckney St",
+    "Latitude": "42.3587253046",
+    "Longitude": "-71.0707953201",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 80,
+    "tractMetadata": {
+      "percentResidential": 0.11924967344654695,
+      "percentCommercial": 0.1673306900248031,
+      "percentIndustrial": 0.00608757322633133
+    },
+    "Number": "D32039",
+    "Name": "Charlestown Navy Yard",
+    "Latitude": "42.3741245494",
+    "Longitude": "-71.0548119994",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 161,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.24602886255722642,
+      "percentCommercial": 0.41396273462619665,
+      "percentIndustrial": 0.07452548985668632
+    },
+    "Number": "A32027",
+    "Name": "Chelsea St at Saratoga St",
+    "Latitude": "42.379772",
+    "Longitude": "-71.027448",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32009",
+    "Name": "Chelsea St at Vine St",
+    "Latitude": "42.4032805697",
+    "Longitude": "-71.0476263986",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32049",
+    "Name": "Child St at North St",
+    "Latitude": "42.371504941",
+    "Longitude": "-71.0724931212",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "D32015",
+    "Name": "Chinatown Gate Plaza",
+    "Latitude": "42.351356",
+    "Longitude": "-71.059367",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "D32019",
+    "Name": "Chinatown T Stop",
+    "Latitude": "42.352409",
+    "Longitude": "-71.062679",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 156,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.3408182706472243,
+      "percentCommercial": 0.23439531767787075,
+      "percentIndustrial": 0.03273485407816637
+    },
+    "Number": "B32005",
+    "Name": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+    "Latitude": "42.3436658245",
+    "Longitude": "-71.0858237743",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32010",
+    "Name": "Clarendon Hill at Broadway",
+    "Latitude": "42.406302",
+    "Longitude": "-71.132446",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 4,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.4430299586080941,
+      "percentCommercial": 0.3514258914188841,
+      "percentIndustrial": 0
+    },
+    "Number": "D32047",
+    "Name": "Clarendon St at Newbury St",
+    "Latitude": "42.3515530847",
+    "Longitude": "-71.0756903144",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 168,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.11821573616322341,
+      "percentCommercial": 0.025050976766299006,
+      "percentIndustrial": 0
+    },
+    "Number": "B32035",
+    "Name": "Cleveland Circle",
+    "Latitude": "42.3355430836",
+    "Longitude": "-71.1506151967",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 43,
+    "tractMetadata": {
+      "CanopyPercent": 0.11,
+      "percentResidential": 0.7036884623827486,
+      "percentCommercial": 0.056875578981317725,
+      "percentIndustrial": 0.014001974932521918
+    },
+    "Number": "C32055",
+    "Name": "Codman Square Library",
+    "Latitude": "42.2873611",
+    "Longitude": "-71.071111",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 157,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.02912785129259376,
+      "percentCommercial": 0.027643701685647178,
+      "percentIndustrial": 0
+    },
+    "Number": "B32006",
+    "Name": "Colleges of the Fenway - Fenway at Avenue Louis Pasteur",
+    "Latitude": "42.3401151225",
+    "Longitude": "-71.1006188393",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 77,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.539337428060909,
+      "percentCommercial": 0.07099359371526981,
+      "percentIndustrial": 0.01345662176542561
+    },
+    "Number": "B32029",
+    "Name": "Columbia Rd at Ceylon St",
+    "Latitude": "42.309572",
+    "Longitude": "-71.0729",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 126,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.3980335517191753,
+      "percentCommercial": 0.02028472139761172,
+      "percentIndustrial": 0
+    },
+    "Number": "C32052",
+    "Name": "Columbia Rd at Tierney Community Center",
+    "Latitude": "42.3302307053",
+    "Longitude": "-71.0506009312",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 119,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.46846864101387536,
+      "percentCommercial": 0.13061146958663322,
+      "percentIndustrial": 0
+    },
+    "Number": "C32077",
+    "Name": "Columbus Ave at W. Canton St",
+    "Latitude": "42.3447422477",
+    "Longitude": "-71.0764816218",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 12,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.02034406926373433,
+      "percentCommercial": 0.38037264482262634,
+      "percentIndustrial": 0.1450966770678295
+    },
+    "Number": "A32002",
+    "Name": "Commonwealth Ave at Agganis Way",
+    "Latitude": "42.3516920189",
+    "Longitude": "-71.1190348864",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "K32006",
+    "Name": "Commonwealth Ave At Babcock St",
+    "Latitude": "42.3515473479",
+    "Longitude": "-71.1212624609",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 168,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.11821573616322341,
+      "percentCommercial": 0.025050976766299006,
+      "percentIndustrial": 0
+    },
+    "Number": "D32033",
+    "Name": "Commonwealth Ave at Chiswick Rd",
+    "Latitude": "42.3402464477",
+    "Longitude": "-71.1516880617",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 10,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.8161089864902791,
+      "percentCommercial": 0.23108133020863245,
+      "percentIndustrial": 0
+    },
+    "Number": "A32017",
+    "Name": "Commonwealth Ave at Griggs St",
+    "Latitude": "42.3492246934",
+    "Longitude": "-71.1327530258",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 159,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.9107375215827823,
+      "percentCommercial": 0.08070338324569687,
+      "percentIndustrial": 0.005099863635867267
+    },
+    "Number": "D32034",
+    "Name": "Commonwealth Ave at Kelton St",
+    "Latitude": "42.3483586282",
+    "Longitude": "-71.1399721728",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32022",
+    "Name": "Community Path at Cedar Street",
+    "Latitude": "42.3940722367",
+    "Longitude": "-71.1113369465",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "D32009",
+    "Name": "Congress St at Boston City Hall",
+    "Latitude": "42.3604177464",
+    "Longitude": "-71.0575224354",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "C32032",
+    "Name": "Congress St at Northern Ave",
+    "Latitude": "42.3481",
+    "Longitude": "-71.03764",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "C32010",
+    "Name": "Congress St at Sleeper St",
+    "Latitude": "42.3510044959",
+    "Longitude": "-71.0493001342",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "S32004",
+    "Name": "Conway Park - Somerville Avenue",
+    "Latitude": "42.383405",
+    "Longitude": "-71.107593",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "Number": "K32001",
+    "Name": "Coolidge Corner - Beacon St at Centre St",
+    "Latitude": "42.341598",
+    "Longitude": "-71.123338",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 155,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.17870098102602763,
+      "percentCommercial": 0.5408464070532638,
+      "percentIndustrial": 0
+    },
+    "Number": "D32005",
+    "Name": "Copley Square - Dartmouth St at Boylston St",
+    "Latitude": "42.3499282823",
+    "Longitude": "-71.0773920687",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "33"
+  },
+  {
+    "Number": "S32037",
+    "Name": "Craigie at Summer St",
+    "Latitude": "42.3836340227",
+    "Longitude": "-71.1085581408",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 152,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.6534545328868077,
+      "percentCommercial": 0.3278635580972333,
+      "percentIndustrial": 0.012362249679731336
+    },
+    "Number": "D32010",
+    "Name": "Cross St at Hanover St",
+    "Latitude": "42.362811",
+    "Longitude": "-71.056067",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 31,
+    "tractMetadata": {
+      "CanopyPercent": 0.23,
+      "percentResidential": 0.7183378128030583,
+      "percentCommercial": 0.07262534236444593,
+      "percentIndustrial": 0.0015901129791802222
+    },
+    "Number": "E32001",
+    "Name": "Curtis Hall - South St at Centre St",
+    "Latitude": "42.309054",
+    "Longitude": "-71.11543",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "K32009",
+    "Name": "Cypress St at Clark Playground",
+    "Latitude": "42.3278431748",
+    "Longitude": "-71.1253622174",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32030",
+    "Name": "Dana Park",
+    "Latitude": "42.3617804396",
+    "Longitude": "-71.1080995202",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32031",
+    "Name": "Danehy Park",
+    "Latitude": "42.388966",
+    "Longitude": "-71.132788",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 4,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.4430299586080941,
+      "percentCommercial": 0.3514258914188841,
+      "percentIndustrial": 0
+    },
+    "Number": "D32045",
+    "Name": "Dartmouth St at Newbury St",
+    "Latitude": "42.3509614442",
+    "Longitude": "-71.0778281093",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32006",
+    "Name": "Davis Square",
+    "Latitude": "42.396969",
+    "Longitude": "-71.123024",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "25"
+  },
+  {
+    "tractId": 7,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.30471746985049786,
+      "percentCommercial": 0.16528347418964998,
+      "percentIndustrial": 0.002186948112489835
+    },
+    "Number": "B32037",
+    "Name": "Deerfield St at Commonwealth Ave",
+    "Latitude": "42.3492437696",
+    "Longitude": "-71.0972820969",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32066",
+    "Name": "Discovery Park - 30 Acorn Park Drive",
+    "Latitude": "42.3979081737",
+    "Longitude": "-71.1479713081",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 125,
+    "tractMetadata": {
+      "percentResidential": 0.09017242677977022,
+      "percentCommercial": 0.28251685951048106,
+      "percentIndustrial": 0.07172412883820632
+    },
+    "Number": "C32009",
+    "Name": "Dorchester Ave at Gillette Park",
+    "Latitude": "42.34404051",
+    "Longitude": "-71.0573762655",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 42,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.8933847540816342,
+      "percentCommercial": 0.020161869874172383,
+      "percentIndustrial": 0
+    },
+    "Number": "C32066",
+    "Name": "Dorchester Ave at King St",
+    "Latitude": "42.2917562163",
+    "Longitude": "-71.0625918024",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 104,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10739193146339059,
+      "percentCommercial": 0.08145369045311189,
+      "percentIndustrial": 0.0018227786268161406
+    },
+    "Number": "B32017",
+    "Name": "Dudley Square - Bolling Building",
+    "Latitude": "42.3298429935",
+    "Longitude": "-71.0838657246",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "tractId": 129,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.12729795458849266,
+      "percentCommercial": 0.40110386175877444,
+      "percentIndustrial": 0.06682187968416692
+    },
+    "Number": "C32015",
+    "Name": "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave",
+    "Latitude": "42.325333",
+    "Longitude": "-71.075354",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "tractId": 74,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.26067871651138935,
+      "percentCommercial": 0.40168378202129146,
+      "percentIndustrial": 0.11597613142524774
+    },
+    "Number": "C32018",
+    "Name": "E Cottage St at Columbia Rd",
+    "Latitude": "42.320561",
+    "Longitude": "-71.06198",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 141,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.6797359226320111,
+      "percentCommercial": 0.1669386814160944,
+      "percentIndustrial": 0.002999361337828545
+    },
+    "Number": "A32031",
+    "Name": "East Boston Neighborhood Health Center - 20 Maverick Square",
+    "Latitude": "42.369536",
+    "Longitude": "-71.039431",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "16"
+  },
+  {
+    "Number": "S32017",
+    "Name": "East Somerville Library (Broadway and Illinois)",
+    "Latitude": "42.3876281075",
+    "Longitude": "-71.0831871629",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32038",
+    "Name": "Edgerly Education Center",
+    "Latitude": "42.3871746335",
+    "Longitude": "-71.0871438853",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 144,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.6744072306904131,
+      "percentCommercial": 0.03164170051782615,
+      "percentIndustrial": 0
+    },
+    "Number": "A32022",
+    "Name": "Edwards Playground - Main St at Eden St",
+    "Latitude": "42.378965",
+    "Longitude": "-71.068607",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32034",
+    "Name": "EF - North Point Park",
+    "Latitude": "42.369885",
+    "Longitude": "-71.069957",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 66,
+    "tractMetadata": {
+      "CanopyPercent": 0.14,
+      "percentResidential": 0.6398647610610498,
+      "percentCommercial": 0.11046365341527473,
+      "percentIndustrial": 0.038139371152087195
+    },
+    "Number": "E32004",
+    "Name": "Egleston Square - Atherton St at Washington St",
+    "Latitude": "42.315692",
+    "Longitude": "-71.098634",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32039",
+    "Name": "Elm St at White St",
+    "Latitude": "42.3895243631",
+    "Longitude": "-71.1169414036",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "V32005",
+    "Name": "Encore",
+    "Latitude": "42.3932926323",
+    "Longitude": "-71.072447598",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32003",
+    "Name": "Everett Square (Broadway at Chelsea St)",
+    "Latitude": "42.4072594517",
+    "Longitude": "-71.0554638133",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "A32000",
+    "Name": "Fan Pier",
+    "Latitude": "42.3533905071",
+    "Longitude": "-71.0445713997",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 171,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.7492022481486408,
+      "percentCommercial": 0.09657442278662104,
+      "percentIndustrial": 0
+    },
+    "Number": "A32038",
+    "Name": "Faneuil St at Arlington St",
+    "Latitude": "42.3527662055",
+    "Longitude": "-71.1598848553",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 47,
+    "tractMetadata": {
+      "percentResidential": 0,
+      "percentCommercial": 0.00574913127288249,
+      "percentIndustrial": 0
+    },
+    "Number": "C32051",
+    "Name": "Farragut Rd at E. 6th St",
+    "Latitude": "42.3334",
+    "Longitude": "-71.02495",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "Number": "V32007",
+    "Name": "Ferry St at Pleasantview Ave",
+    "Latitude": "42.4125045078",
+    "Longitude": "-71.0584222527",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 56,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.6991723158810742,
+      "percentCommercial": 0.08779012550794563,
+      "percentIndustrial": 0
+    },
+    "Number": "C32041",
+    "Name": "Fields Corner T Stop",
+    "Latitude": "42.2996667",
+    "Longitude": "-71.0605833",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 94,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.5148664297246144,
+      "percentCommercial": 0.11764657790711591,
+      "percentIndustrial": 0.013630080554237336
+    },
+    "Number": "E32010",
+    "Name": "Forest Hills",
+    "Latitude": "42.300923",
+    "Longitude": "-71.114249",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "40"
+  },
+  {
+    "Number": "S32015",
+    "Name": "Foss Park",
+    "Latitude": "42.3910843815",
+    "Longitude": "-71.0903942585",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 85,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.8708065284402389,
+      "percentCommercial": 0.04591714793831654,
+      "percentIndustrial": 0
+    },
+    "Number": "C32037",
+    "Name": "Four Corners - 157 Washington St",
+    "Latitude": "42.3041279274",
+    "Longitude": "-71.0792952776",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "11"
+  },
+  {
+    "tractId": 13,
+    "tractMetadata": {
+      "CanopyPercent": 0.36,
+      "percentResidential": 0,
+      "percentCommercial": 0,
+      "percentIndustrial": 0
+    },
+    "Number": "C32027",
+    "Name": "Franklin Park - Seaver St at Humbolt Ave",
+    "Latitude": "42.309796",
+    "Longitude": "-71.092225",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 13,
+    "tractMetadata": {
+      "CanopyPercent": 0.36,
+      "percentResidential": 0,
+      "percentCommercial": 0,
+      "percentIndustrial": 0
+    },
+    "Number": "C32030",
+    "Name": "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave",
+    "Latitude": "42.303469",
+    "Longitude": "-71.085347",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "Number": "M32051",
+    "Name": "Fresh Pond Reservation",
+    "Latitude": "42.3826782752",
+    "Longitude": "-71.1434789514",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 114,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.4078426474138866,
+      "percentCommercial": 0.09635105519430233,
+      "percentIndustrial": 0.0016834900527920727
+    },
+    "Number": "C32040",
+    "Name": "Gallivan Blvd at Adams St",
+    "Latitude": "42.2829756784",
+    "Longitude": "-71.054666983",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 131,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.10784063035411451,
+      "percentCommercial": 0.06013853184133587,
+      "percentIndustrial": 0
+    },
+    "Number": "C32090",
+    "Name": "Geiger Gibson Community Health Center",
+    "Latitude": "42.3188646822",
+    "Longitude": "-71.0453679786",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "V32006",
+    "Name": "Glendale Square (Ferry St at Broadway)",
+    "Latitude": "42.4142729429",
+    "Longitude": "-71.0447965566",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 161,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.24602886255722642,
+      "percentCommercial": 0.41396273462619665,
+      "percentIndustrial": 0.07452548985668632
+    },
+    "Number": "A32034",
+    "Name": "Glendon St at Condor St",
+    "Latitude": "42.3824037767",
+    "Longitude": "-71.0302430391",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "B32032",
+    "Name": "Government Center - Cambridge St at Court St",
+    "Latitude": "42.359802516",
+    "Longitude": "-71.0596078263",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 14,
+    "tractMetadata": {
+      "CanopyPercent": 0.14,
+      "percentResidential": 0.4612358232423815,
+      "percentCommercial": 0.14643625487238485,
+      "percentIndustrial": 0.021121097809435753
+    },
+    "Number": "E32005",
+    "Name": "Green Street T Stop - Green St at Amory St",
+    "Latitude": "42.310579",
+    "Longitude": "-71.107341",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 78,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.5095769559426777,
+      "percentCommercial": 0.2450015604588905,
+      "percentIndustrial": 0
+    },
+    "Number": "B32028",
+    "Name": "Grove Hall Library - 41 Geneva Ave",
+    "Latitude": "42.30791",
+    "Longitude": "-71.080952",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32019",
+    "Name": "Grove St at Community Path",
+    "Latitude": "42.3963868095",
+    "Longitude": "-71.1201130601",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 123,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.33827345516554685,
+      "percentCommercial": 0.29523450097703025,
+      "percentIndustrial": 0.004882626726088021
+    },
+    "Number": "D32043",
+    "Name": "Harrison Ave at Bennet St",
+    "Latitude": "42.3494260989",
+    "Longitude": "-71.0620995984",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 175,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.30474460181482305,
+      "percentCommercial": 0.5678720072085607,
+      "percentIndustrial": 0.0381493312908148
+    },
+    "Number": "C32057",
+    "Name": "Harrison Ave at Mullins Way",
+    "Latitude": "42.3452156212",
+    "Longitude": "-71.0638403149",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 8,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.5018765596119396,
+      "percentCommercial": 0.5033955337581172,
+      "percentIndustrial": 0.0350076675172414
+    },
+    "Number": "D32035",
+    "Name": "Harvard Ave at Brainerd Rd",
+    "Latitude": "42.3495301689",
+    "Longitude": "-71.1302277074",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32016",
+    "Name": "Harvard Kennedy School at Bennett St / Eliot St",
+    "Latitude": "42.3722168028",
+    "Longitude": "-71.1218807101",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "Number": "M32020",
+    "Name": "Harvard Law School at Mass Ave / Jarvis St",
+    "Latitude": "42.379011",
+    "Longitude": "-71.119945",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32017",
+    "Name": "Harvard Square at Brattle St / Eliot St",
+    "Latitude": "42.373231",
+    "Longitude": "-71.120886",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32018",
+    "Name": "Harvard Square at Mass Ave/ Dunster",
+    "Latitude": "42.373268",
+    "Longitude": "-71.118579",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32055",
+    "Name": "Harvard St at Greene-Rose Heritage Park",
+    "Latitude": "42.3659943287",
+    "Longitude": "-71.0952222161",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32023",
+    "Name": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+    "Latitude": "42.377945",
+    "Longitude": "-71.116865",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "Number": "M32021",
+    "Name": "Harvard University Gund Hall at Quincy St / Kirkland St",
+    "Latitude": "42.376369",
+    "Longitude": "-71.114025",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32014",
+    "Name": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+    "Latitude": "42.366621",
+    "Longitude": "-71.114214",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32024",
+    "Name": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+    "Latitude": "42.380287",
+    "Longitude": "-71.125107",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32038",
+    "Name": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+    "Latitude": "42.3691903177",
+    "Longitude": "-71.1171412468",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 80,
+    "tractMetadata": {
+      "percentResidential": 0.11924967344654695,
+      "percentCommercial": 0.1673306900248031,
+      "percentIndustrial": 0.00608757322633133
+    },
+    "Number": "D32026",
+    "Name": "Hayes Square - Vine St at Moulton St",
+    "Latitude": "42.377022",
+    "Longitude": "-71.056605",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "K32010",
+    "Name": "High St at Cypress St",
+    "Latitude": "42.325384357",
+    "Longitude": "-71.1217759553",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 157,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.02912785129259376,
+      "percentCommercial": 0.027643701685647178,
+      "percentIndustrial": 0
+    },
+    "Number": "B32003",
+    "Name": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+    "Latitude": "42.3374174846",
+    "Longitude": "-71.102861166",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "25"
+  },
+  {
+    "tractId": 158,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.48957700245093555,
+      "percentCommercial": 0.390135469758757,
+      "percentIndustrial": 0.030911410282182996
+    },
+    "Number": "A32040",
+    "Name": "Honan Library",
+    "Latitude": "42.3602737045",
+    "Longitude": "-71.1285245233",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 157,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.02912785129259376,
+      "percentCommercial": 0.027643701685647178,
+      "percentIndustrial": 0
+    },
+    "Number": "B32033",
+    "Name": "Huntington Ave at Mass Art",
+    "Latitude": "42.3365855546",
+    "Longitude": "-71.0988699647",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32044",
+    "Name": "Huron Ave At Vassal Lane",
+    "Latitude": "42.3816506129",
+    "Longitude": "-71.134269815",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 94,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.5148664297246144,
+      "percentCommercial": 0.11764657790711591,
+      "percentIndustrial": 0.013630080554237336
+    },
+    "Number": "C32089",
+    "Name": "Hyde Park Ave at Walk Hill St",
+    "Latitude": "42.2960670465",
+    "Longitude": "-71.1160119996",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 29,
+    "tractMetadata": {
+      "CanopyPercent": 0.17,
+      "percentResidential": 0.9214335203834095,
+      "percentCommercial": 0.03847321206352909,
+      "percentIndustrial": 0
+    },
+    "Number": "E32003",
+    "Name": "Hyde Square - Barbara St at Centre St",
+    "Latitude": "42.3217652572",
+    "Longitude": "-71.1098416057",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 163,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0,
+      "percentCommercial": 0.06625743532290988,
+      "percentIndustrial": 0.11721688148959436
+    },
+    "Number": "C32020",
+    "Name": "ID Building East",
+    "Latitude": "42.344827",
+    "Longitude": "-71.028664",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 163,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0,
+      "percentCommercial": 0.06625743532290988,
+      "percentIndustrial": 0.11721688148959436
+    },
+    "Number": "C32021",
+    "Name": "ID Building West",
+    "Latitude": "42.344796",
+    "Longitude": "-71.031614",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 175,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.30474460181482305,
+      "percentCommercial": 0.5678720072085607,
+      "percentIndustrial": 0.0381493312908148
+    },
+    "Number": "C32025",
+    "Name": "Ink Block - Harrison Ave at Herald St",
+    "Latitude": "42.345901",
+    "Longitude": "-71.063187",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32062",
+    "Name": "Inman Square at Springfield St.",
+    "Latitude": "42.3743840852",
+    "Longitude": "-71.1001574622",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 158,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.48957700245093555,
+      "percentCommercial": 0.390135469758757,
+      "percentIndustrial": 0.030911410282182996
+    },
+    "Number": "A32011",
+    "Name": "Innovation Lab - 125 Western Ave at Batten Way",
+    "Latitude": "42.3631449888",
+    "Longitude": "-71.1229857431",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 100,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.3846273977408215,
+      "percentCommercial": 0.13130292818255856,
+      "percentIndustrial": 0
+    },
+    "Number": "E32006",
+    "Name": "Jackson Square T Stop",
+    "Latitude": "42.322931172",
+    "Longitude": "-71.1001414061",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "tractId": 15,
+    "tractMetadata": {
+      "CanopyPercent": 0.16,
+      "percentResidential": 0.7148481004896012,
+      "percentCommercial": 0.01682277441384324,
+      "percentIndustrial": 0
+    },
+    "Number": "D32052",
+    "Name": "Jamaica St at South St",
+    "Latitude": "42.3060456272",
+    "Longitude": "-71.11570891",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "K32004",
+    "Name": "JFK Crossing at Harvard St. / Thorndike St.",
+    "Latitude": "42.346563",
+    "Longitude": "-71.128374",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 68,
+    "tractMetadata": {
+      "CanopyPercent": 0.09,
+      "percentResidential": 0.2374196689004765,
+      "percentCommercial": 0.2762963400134895,
+      "percentIndustrial": 0.05859375328652398
+    },
+    "Number": "C32013",
+    "Name": "JFK/UMass T Stop",
+    "Latitude": "42.3203397352",
+    "Longitude": "-71.0511803627",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32032",
+    "Name": "Kendall Street",
+    "Latitude": "42.3635601584",
+    "Longitude": "-71.0821679235",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32004",
+    "Name": "Kendall T",
+    "Latitude": "42.3624278429",
+    "Longitude": "-71.0849547386",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 7,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.30471746985049786,
+      "percentCommercial": 0.16528347418964998,
+      "percentIndustrial": 0.002186948112489835
+    },
+    "Number": "B32010",
+    "Name": "Kenmore Square",
+    "Latitude": "42.348706",
+    "Longitude": "-71.097009",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "27"
+  },
+  {
+    "Number": "M32065",
+    "Name": "Kennedy-Longfellow School 158 Spring St",
+    "Latitude": "42.3695529776",
+    "Longitude": "-71.0857901498",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32009",
+    "Name": "Lafayette Square at Mass Ave / Main St / Columbia St",
+    "Latitude": "42.363464693",
+    "Longitude": "-71.1005732417",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 5,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.20459545343765365,
+      "percentCommercial": 0.2388022241034117,
+      "percentIndustrial": 0
+    },
+    "Number": "B32058",
+    "Name": "Lansdowne T Stop",
+    "Latitude": "42.3473447318",
+    "Longitude": "-71.1001680795",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "27"
+  },
+  {
+    "Number": "M32001",
+    "Name": "Lechmere Station at Cambridge St / First St",
+    "Latitude": "42.370677",
+    "Longitude": "-71.076529",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32039",
+    "Name": "Lesley University",
+    "Latitude": "42.3867480205",
+    "Longitude": "-71.1190187931",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "D32006",
+    "Name": "Lewis Wharf at Atlantic Ave",
+    "Latitude": "42.363871",
+    "Longitude": "-71.050877",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32025",
+    "Name": "Linear Park - Mass. Ave. at Cameron Ave. ",
+    "Latitude": "42.397828",
+    "Longitude": "-71.130516",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 157,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.02912785129259376,
+      "percentCommercial": 0.027643701685647178,
+      "percentIndustrial": 0
+    },
+    "Number": "A32004",
+    "Name": "Longwood Ave at Binney St",
+    "Latitude": "42.338629",
+    "Longitude": "-71.1065",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32022",
+    "Name": "Lower Cambridgeport at Magazine St / Riverside Rd",
+    "Latitude": "42.3572185032",
+    "Longitude": "-71.113871634",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32013",
+    "Name": "Magoun Square at Trum Field",
+    "Latitude": "42.398365",
+    "Longitude": "-71.107818",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 173,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.35837105058556223,
+      "percentCommercial": 0.2274282706219693,
+      "percentIndustrial": 0.002939862087012393
+    },
+    "Number": "D32020",
+    "Name": "Main St at Austin St",
+    "Latitude": "42.375603",
+    "Longitude": "-71.064608",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "11"
+  },
+  {
+    "tractId": 165,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10870714112667518,
+      "percentCommercial": 0.3464454345764156,
+      "percentIndustrial": 0.06560349176031781
+    },
+    "Number": "D32036",
+    "Name": "Main St at Baldwin St",
+    "Latitude": "42.380857",
+    "Longitude": "-71.070629",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "V32010",
+    "Name": "Main St at Beacon St",
+    "Latitude": "42.4093300667",
+    "Longitude": "-71.0638187829",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 173,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.35837105058556223,
+      "percentCommercial": 0.2274282706219693,
+      "percentIndustrial": 0.002939862087012393
+    },
+    "Number": "D32038",
+    "Name": "Main St at Thompson Sq",
+    "Latitude": "42.3748784674",
+    "Longitude": "-71.0638349877",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32002",
+    "Name": "Main Street at Carter Street",
+    "Latitude": "42.40413",
+    "Longitude": "-71.0613",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "Number": "K32012",
+    "Name": "Marion St at Harvard St",
+    "Latitude": "42.3397805267",
+    "Longitude": "-71.1213335023",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32061",
+    "Name": "Mass Ave at Albany St",
+    "Latitude": "42.3613583766",
+    "Longitude": "-71.0967027398",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "Number": "M32056",
+    "Name": "Mass Ave at Hadley/Walden",
+    "Latitude": "42.3912097192",
+    "Longitude": "-71.1226075516",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 118,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.5647518782130961,
+      "percentCommercial": 0.11292931167682983,
+      "percentIndustrial": 0
+    },
+    "Number": "C32063",
+    "Name": "Mass Ave T Station",
+    "Latitude": "42.3413561577",
+    "Longitude": "-71.0833695345",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "16"
+  },
+  {
+    "tractId": 118,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.5647518782130961,
+      "percentCommercial": 0.11292931167682983,
+      "percentIndustrial": 0
+    },
+    "Number": "C32004",
+    "Name": "Massachusetts Ave at Columbus Ave",
+    "Latitude": "42.3405426155",
+    "Longitude": "-71.0813884791",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "tractId": 36,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.7126457747221894,
+      "percentCommercial": 0.07506991329512039,
+      "percentIndustrial": 0
+    },
+    "Number": "C32050",
+    "Name": "Mattapan Library",
+    "Latitude": "42.2773889",
+    "Longitude": "-71.09325",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 38,
+    "tractMetadata": {
+      "CanopyPercent": 0.15,
+      "percentResidential": 0.4805784469736586,
+      "percentCommercial": 0.07565993043843972,
+      "percentIndustrial": 0.0014861059637885073
+    },
+    "Number": "C32045",
+    "Name": "Mattapan T Stop",
+    "Latitude": "42.267902",
+    "Longitude": "-71.093641",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 142,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1589680722041917,
+      "percentCommercial": 0.36016637646473193,
+      "percentIndustrial": 0.019792536674368907
+    },
+    "Number": "A32030",
+    "Name": "Maverick Square - Lewis Mall",
+    "Latitude": "42.3688440829",
+    "Longitude": "-71.0397782922",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "33"
+  },
+  {
+    "tractId": 46,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.002776608477023222,
+      "percentCommercial": 0.00013940106372086603,
+      "percentIndustrial": 0
+    },
+    "Number": "A32044",
+    "Name": "Maverick St at Massport Path",
+    "Latitude": "42.3677412231",
+    "Longitude": "-71.0333597474",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 80,
+    "tractMetadata": {
+      "percentResidential": 0.11924967344654695,
+      "percentCommercial": 0.1673306900248031,
+      "percentIndustrial": 0.00608757322633133
+    },
+    "Number": "D32037",
+    "Name": "Medford St at Charlestown BCYF",
+    "Latitude": "42.3804294745",
+    "Longitude": "-71.0605572168",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32006",
+    "Name": "MIT at Mass Ave / Amherst St",
+    "Latitude": "42.3581",
+    "Longitude": "-71.093198",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "27"
+  },
+  {
+    "Number": "M32041",
+    "Name": "MIT Pacific St at Purrington St",
+    "Latitude": "42.3595732011",
+    "Longitude": "-71.1012947559",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32005",
+    "Name": "MIT Stata Center at Vassar St / Main St",
+    "Latitude": "42.3621312345",
+    "Longitude": "-71.0911560059",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "35"
+  },
+  {
+    "Number": "M32042",
+    "Name": "MIT Vassar St",
+    "Latitude": "42.3556012133",
+    "Longitude": "-71.1039447784",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "25"
+  },
+  {
+    "tractId": 90,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.559707541595404,
+      "percentCommercial": 0.06511109036318755,
+      "percentIndustrial": 0.02143524333489191
+    },
+    "Number": "B32023",
+    "Name": "MLK Blvd at Washington St",
+    "Latitude": "42.3214381418",
+    "Longitude": "-71.091260612",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 36,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.7126457747221894,
+      "percentCommercial": 0.07506991329512039,
+      "percentIndustrial": 0
+    },
+    "Number": "C23045",
+    "Name": "Morton St T",
+    "Latitude": "42.2807251429",
+    "Longitude": "-71.0861724243",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32043",
+    "Name": "Mt Auburn",
+    "Latitude": "42.3747862871",
+    "Longitude": "-71.1332023144",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 83,
+    "tractMetadata": {
+      "CanopyPercent": 0.17,
+      "percentResidential": 0.7531101871736189,
+      "percentCommercial": 0.10556773009447634,
+      "percentIndustrial": 0
+    },
+    "Number": "C32080",
+    "Name": "Mt. Hope St at Hyde Park Ave",
+    "Latitude": "42.2848447244",
+    "Longitude": "-71.1187451706",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 178,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.9004453431523838,
+      "percentCommercial": 0.09226974420270456,
+      "percentIndustrial": 0
+    },
+    "Number": "D32017",
+    "Name": "Mugar Way at Beacon St",
+    "Latitude": "42.3555362849",
+    "Longitude": "-71.0728687048",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 47,
+    "tractMetadata": {
+      "percentResidential": 0,
+      "percentCommercial": 0.00574913127288249,
+      "percentIndustrial": 0
+    },
+    "Number": "C32023",
+    "Name": "Murphy Skating Rink - 1880 Day Blvd",
+    "Latitude": "42.336448",
+    "Longitude": "-71.023739",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32045",
+    "Name": "Museum of Science",
+    "Latitude": "42.3676901802",
+    "Longitude": "-71.0711628199",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 174,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.25185576780033836,
+      "percentCommercial": 0.3014081472224186,
+      "percentIndustrial": 0
+    },
+    "Number": "A32025",
+    "Name": "Nashua Street at Red Auerbach Way",
+    "Latitude": "42.365673",
+    "Longitude": "-71.064263",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "37"
+  },
+  {
+    "tractId": 88,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.6477835602825619,
+      "percentCommercial": 0.03186730647901044,
+      "percentIndustrial": 0.0033961296269463827
+    },
+    "Number": "B32027",
+    "Name": "NCAAA - Walnut Ave at Crawford St",
+    "Latitude": "42.316902",
+    "Longitude": "-71.091946",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 181,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.2311807754143891,
+      "percentCommercial": 0.33223537946441895,
+      "percentIndustrial": 0.04172968484423853
+    },
+    "Number": "D32001",
+    "Name": "New Balance - 20 Guest St",
+    "Latitude": "42.3573292187",
+    "Longitude": "-71.1467354",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 97,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.5688884350619519,
+      "percentCommercial": 0.3582821924499207,
+      "percentIndustrial": 0
+    },
+    "Number": "B32000",
+    "Name": "Newbury St at Hereford St",
+    "Latitude": "42.348717",
+    "Longitude": "-71.085954",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 129,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.12729795458849266,
+      "percentCommercial": 0.40110386175877444,
+      "percentIndustrial": 0.06682187968416692
+    },
+    "Number": "C32022",
+    "Name": "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square",
+    "Latitude": "42.326599",
+    "Longitude": "-71.066498",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "V32001",
+    "Name": "Norman St at Kelvin St",
+    "Latitude": "42.4098587754",
+    "Longitude": "-71.0663186761",
+    "District": "Everett",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 94,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.5148664297246144,
+      "percentCommercial": 0.11764657790711591,
+      "percentIndustrial": 0.013630080554237336
+    },
+    "Number": "C32078",
+    "Name": "Northbourne Rd at Hyde Park Ave",
+    "Latitude": "42.2911803479",
+    "Longitude": "-71.11773666",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 2,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.5258276149042777,
+      "percentCommercial": 0.14078505994168689,
+      "percentIndustrial": 0
+    },
+    "Number": "B32012",
+    "Name": "Northeastern University - North Parking Lot",
+    "Latitude": "42.341814",
+    "Longitude": "-71.090179",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 172,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.7370958939114363,
+      "percentCommercial": 0.06961737365153378,
+      "percentIndustrial": 0
+    },
+    "Number": "D32031",
+    "Name": "Oak Square - 615 Washington St",
+    "Latitude": "42.35057",
+    "Longitude": "-71.166491",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 102,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.7687592440922352,
+      "percentCommercial": 0.25649554221950815,
+      "percentIndustrial": 0
+    },
+    "Number": "B32036",
+    "Name": "One Brigham Circle",
+    "Latitude": "42.3339227014",
+    "Longitude": "-71.1044650898",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32003",
+    "Name": "One Broadway / Kendall Sq at Main St / 3rd St",
+    "Latitude": "42.3622417865",
+    "Longitude": "-71.0831107199",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "Number": "M32002",
+    "Name": "One Kendall Square at Hampshire St / Portland St",
+    "Latitude": "42.366277",
+    "Longitude": "-71.09169",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32053",
+    "Name": "One Memorial Drive",
+    "Latitude": "42.3616193208",
+    "Longitude": "-71.0804355052",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 148,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.41915794731403894,
+      "percentCommercial": 0.03774009724544299,
+      "percentIndustrial": 0.006973246901654702
+    },
+    "Number": "A32035",
+    "Name": "Orient Heights T Stop - Bennington St at Saratoga St",
+    "Latitude": "42.386781",
+    "Longitude": "-71.006098",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32009",
+    "Name": "Packard Ave at Powderhouse Blvd",
+    "Latitude": "42.40449",
+    "Longitude": "-71.123413",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 158,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.48957700245093555,
+      "percentCommercial": 0.390135469758757,
+      "percentIndustrial": 0.030911410282182996
+    },
+    "Number": "A32012",
+    "Name": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+    "Latitude": "42.352261",
+    "Longitude": "-71.123831",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "27"
+  },
+  {
+    "tractId": 5,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.20459545343765365,
+      "percentCommercial": 0.2388022241034117,
+      "percentIndustrial": 0
+    },
+    "Number": "A32008",
+    "Name": "Park Dr at Buswell St",
+    "Latitude": "42.347241",
+    "Longitude": "-71.105301",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 122,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.469898592270914,
+      "percentCommercial": 0.2771339474223446,
+      "percentIndustrial": 0
+    },
+    "Number": "D32042",
+    "Name": "Park Plaza at Charles St S.",
+    "Latitude": "42.3518280689",
+    "Longitude": "-71.0678113811",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 55,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.799671128749491,
+      "percentCommercial": 0.07039392355707624,
+      "percentIndustrial": 0
+    },
+    "Number": "C32039",
+    "Name": "Park St at Norwell St",
+    "Latitude": "42.2944167",
+    "Longitude": "-71.0783056",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "S32034",
+    "Name": "Perry Park",
+    "Latitude": "42.379273246",
+    "Longitude": "-71.1034190283",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 137,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.19519698808131486,
+      "percentCommercial": 0.2973812274820019,
+      "percentIndustrial": 0.007578997514328698
+    },
+    "Number": "A32029",
+    "Name": "Piers Park",
+    "Latitude": "42.3648929327",
+    "Longitude": "-71.0349717736",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32029",
+    "Name": "Porter Square Station",
+    "Latitude": "42.387995",
+    "Longitude": "-71.119084",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "D32012",
+    "Name": "Post Office Square",
+    "Latitude": "42.3558543552",
+    "Longitude": "-71.05459746",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "Number": "S32008",
+    "Name": "Powder House Circle - Nathan Tufts Park",
+    "Latitude": "42.400877",
+    "Longitude": "-71.116772",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 155,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.17870098102602763,
+      "percentCommercial": 0.5408464070532638,
+      "percentIndustrial": 0
+    },
+    "Number": "C32007",
+    "Name": "Prudential Center - 101 Huntington Ave",
+    "Latitude": "42.34652004",
+    "Longitude": "-71.0806577655",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "A32026",
+    "Name": "Purchase St at Pearl St",
+    "Latitude": "42.354659",
+    "Longitude": "-71.053181",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32036",
+    "Name": "Rindge Avenue - O'Neill Library",
+    "Latitude": "42.392766",
+    "Longitude": "-71.129042",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 155,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.17870098102602763,
+      "percentCommercial": 0.5408464070532638,
+      "percentIndustrial": 0
+    },
+    "Number": "C32058",
+    "Name": "Ring Rd",
+    "Latitude": "42.3482783854",
+    "Longitude": "-71.0804485531",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "M32035",
+    "Name": "Rogers St & Land Blvd",
+    "Latitude": "42.3657579821",
+    "Longitude": "-71.0769939423",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 16,
+    "tractMetadata": {
+      "CanopyPercent": 0.16,
+      "percentResidential": 0.6755447778888393,
+      "percentCommercial": 0.04400253695685684,
+      "percentIndustrial": 0.0045405593215063125
+    },
+    "Number": "C32047",
+    "Name": "Roslindale Village - South St",
+    "Latitude": "42.287072",
+    "Longitude": "-71.127754",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 33,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.8807849503750826,
+      "percentCommercial": 0.10361190113594204,
+      "percentIndustrial": 0
+    },
+    "Number": "C32046",
+    "Name": "Roslindale Village - Washington St",
+    "Latitude": "42.2863071601",
+    "Longitude": "-71.1282053218",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 151,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.15930454691992935,
+      "percentCommercial": 0.39589653958207954,
+      "percentIndustrial": 0.00233617930039697
+    },
+    "Number": "D32008",
+    "Name": "Rowes Wharf at Atlantic Ave",
+    "Latitude": "42.357143",
+    "Longitude": "-71.050699",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 92,
+    "tractMetadata": {
+      "CanopyPercent": 0.15,
+      "percentResidential": 0.5343856783275827,
+      "percentCommercial": 0.03355530833700026,
+      "percentIndustrial": 0.0023471569016954032
+    },
+    "Number": "C32001",
+    "Name": "Roxbury Crossing T Stop - Columbus Ave at Tremont St",
+    "Latitude": "42.331184",
+    "Longitude": "-71.095171",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 88,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.6477835602825619,
+      "percentCommercial": 0.03186730647901044,
+      "percentIndustrial": 0.0033961296269463827
+    },
+    "Number": "B32022",
+    "Name": "Roxbury YMCA - Warren St at MLK Blvd",
+    "Latitude": "42.3178732935",
+    "Longitude": "-71.0824307799",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "10"
+  },
+  {
+    "tractId": 104,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10739193146339059,
+      "percentCommercial": 0.08145369045311189,
+      "percentIndustrial": 0.0018227786268161406
+    },
+    "Number": "B32002",
+    "Name": "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd",
+    "Latitude": "42.336244448",
+    "Longitude": "-71.0879856348",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "tractId": 73,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.7871659362046214,
+      "percentCommercial": 0.05447480282879466,
+      "percentIndustrial": 0
+    },
+    "Number": "C32031",
+    "Name": "Ryan Playground - Dorchester Ave at Harbor View St",
+    "Latitude": "42.317642",
+    "Longitude": "-71.056664",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 28,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.48733702036952264,
+      "percentCommercial": 0.11833267352225736,
+      "percentIndustrial": 0
+    },
+    "Number": "E32007",
+    "Name": "S Huntington Ave at Heath St",
+    "Latitude": "42.3276038704",
+    "Longitude": "-71.1108916998",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 68,
+    "tractMetadata": {
+      "CanopyPercent": 0.09,
+      "percentResidential": 0.2374196689004765,
+      "percentCommercial": 0.2762963400134895,
+      "percentIndustrial": 0.05859375328652398
+    },
+    "Number": "C32033",
+    "Name": "Savin Hill T Stop - S Sydney St at Bay St",
+    "Latitude": "42.3106",
+    "Longitude": "-71.0539",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "C32036",
+    "Name": "Seaport Blvd at Sleeper St",
+    "Latitude": "42.3531780919",
+    "Longitude": "-71.0481735692",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "B32014",
+    "Name": "Seaport Hotel - Congress St at Seaport Ln",
+    "Latitude": "42.3488102619",
+    "Longitude": "-71.0416774406",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "B32007",
+    "Name": "Seaport Square - Seaport Blvd at Northern Ave",
+    "Latitude": "42.3514819346",
+    "Longitude": "-71.0443608463",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32063",
+    "Name": "Sennott Park  Broadway at Norfolk Street",
+    "Latitude": "42.3686052425",
+    "Longitude": "-71.0993018561",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 123,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.33827345516554685,
+      "percentCommercial": 0.29523450097703025,
+      "percentIndustrial": 0.004882626726088021
+    },
+    "Number": "D32048",
+    "Name": "Shawmut Ave at Oak St W",
+    "Latitude": "42.3485454341",
+    "Longitude": "-71.0655918532",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 56,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.6991723158810742,
+      "percentCommercial": 0.08779012550794563,
+      "percentIndustrial": 0
+    },
+    "Number": "E32009",
+    "Name": "Shawmut T Stop",
+    "Latitude": "42.292917",
+    "Longitude": "-71.06575",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32047",
+    "Name": "Sidney Research Campus/ Erie Street at Waverly",
+    "Latitude": "42.3577530947",
+    "Longitude": "-71.1039340496",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 11,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.0319932962382246,
+      "percentCommercial": 0.2814460418779376,
+      "percentIndustrial": 0
+    },
+    "Number": "D32032",
+    "Name": "Silber Way",
+    "Latitude": "42.3494959951",
+    "Longitude": "-71.1005759239",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "3"
+  },
+  {
+    "tractId": 12,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.02034406926373433,
+      "percentCommercial": 0.38037264482262634,
+      "percentIndustrial": 0.1450966770678295
+    },
+    "Number": "A32006",
+    "Name": "Soldiers Field Park - 111 Western Ave",
+    "Latitude": "42.3642634406",
+    "Longitude": "-71.1182756971",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32001",
+    "Name": "Somerville City Hall",
+    "Latitude": "42.386844",
+    "Longitude": "-71.09812",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32036",
+    "Name": "Somerville City Hall Annex",
+    "Latitude": "42.3918981159",
+    "Longitude": "-71.0974537583",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32020",
+    "Name": "Somerville Hospital",
+    "Latitude": "42.3967858855",
+    "Longitude": "-71.1023729668",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 162,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.5926534721595822,
+      "percentCommercial": 0.24642257838121404,
+      "percentIndustrial": 0.008823253864675275
+    },
+    "Number": "C32017",
+    "Name": "South Boston Library - 646 E Broadway",
+    "Latitude": "42.335741",
+    "Longitude": "-71.03877",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 120,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.8462881513266073,
+      "percentCommercial": 0.05164342623604055,
+      "percentIndustrial": 0
+    },
+    "Number": "A32009",
+    "Name": "South End Library - Tremont St at W Newton St",
+    "Latitude": "42.341332",
+    "Longitude": "-71.076847",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "A32010",
+    "Name": "South Station - 700 Atlantic Ave",
+    "Latitude": "42.352175",
+    "Longitude": "-71.055547",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "47"
+  },
+  {
+    "tractId": 80,
+    "tractMetadata": {
+      "percentResidential": 0.11924967344654695,
+      "percentCommercial": 0.1673306900248031,
+      "percentIndustrial": 0.00608757322633133
+    },
+    "Number": "D32023",
+    "Name": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+    "Latitude": "42.378338",
+    "Longitude": "-71.048927",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 24,
+    "tractMetadata": {
+      "CanopyPercent": 0.15,
+      "percentResidential": 0.5393256035285214,
+      "percentCommercial": 0.2336272998085591,
+      "percentIndustrial": 0.02251645117900427
+    },
+    "Number": "C32087",
+    "Name": "Spring St at Powell St",
+    "Latitude": "42.277484442",
+    "Longitude": "-71.1634146796",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "K32007",
+    "Name": "St Mary's",
+    "Latitude": "42.3461970766",
+    "Longitude": "-71.1072868109",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 125,
+    "tractMetadata": {
+      "percentResidential": 0.09017242677977022,
+      "percentCommercial": 0.28251685951048106,
+      "percentIndustrial": 0.07172412883820632
+    },
+    "Number": "C32024",
+    "Name": "State Street at Channel Center",
+    "Latitude": "42.344137",
+    "Longitude": "-71.052608",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 66,
+    "tractMetadata": {
+      "CanopyPercent": 0.14,
+      "percentResidential": 0.6398647610610498,
+      "percentCommercial": 0.11046365341527473,
+      "percentIndustrial": 0.038139371152087195
+    },
+    "Number": "D32041",
+    "Name": "Stony Brook T Stop",
+    "Latitude": "42.316966",
+    "Longitude": "-71.104374",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 155,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.17870098102602763,
+      "percentCommercial": 0.5408464070532638,
+      "percentIndustrial": 0
+    },
+    "Number": "D32049",
+    "Name": "Stuart St at Berkeley St",
+    "Latitude": "42.3495440311",
+    "Longitude": "-71.0724207387",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 123,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.33827345516554685,
+      "percentCommercial": 0.29523450097703025,
+      "percentIndustrial": 0.004882626726088021
+    },
+    "Number": "D32011",
+    "Name": "Stuart St at Charles St",
+    "Latitude": "42.351146",
+    "Longitude": "-71.066289",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "18"
+  },
+  {
+    "tractId": 165,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10870714112667518,
+      "percentCommercial": 0.3464454345764156,
+      "percentIndustrial": 0.06560349176031781
+    },
+    "Number": "D32053",
+    "Name": "Sullivan Square",
+    "Latitude": "42.3844522564",
+    "Longitude": "-71.0751485453",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "A32013",
+    "Name": "Surface Rd at India St",
+    "Latitude": "42.358155",
+    "Longitude": "-71.052163",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "A32042",
+    "Name": "Surface Rd at Summer St",
+    "Latitude": "42.3529456978",
+    "Longitude": "-71.056564008",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "27"
+  },
+  {
+    "tractId": 74,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.26067871651138935,
+      "percentCommercial": 0.40168378202129146,
+      "percentIndustrial": 0.11597613142524774
+    },
+    "Number": "C32064",
+    "Name": "Sydney St at Carson St",
+    "Latitude": "42.320393743",
+    "Longitude": "-71.0535540805",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 53,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.41443037986313846,
+      "percentCommercial": 0.02919075216387276,
+      "percentIndustrial": 0
+    },
+    "Number": "C32043",
+    "Name": "Talbot Ave At Blue Hill Ave",
+    "Latitude": "42.2945833",
+    "Longitude": "-71.087111",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "K32008",
+    "Name": "Tappan St at Brookline Hills MBTA",
+    "Latitude": "42.332096063",
+    "Longitude": "-71.1284588277",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "Number": "S32011",
+    "Name": "Teele Square",
+    "Latitude": "42.4020382807",
+    "Longitude": "-71.1265329149",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 93,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.41756857630055805,
+      "percentCommercial": 0.1588281579385835,
+      "percentIndustrial": 0.03823832469693554
+    },
+    "Number": "E32011",
+    "Name": "The Dimock Center",
+    "Latitude": "42.3193094318",
+    "Longitude": "-71.0963992386",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "16"
+  },
+  {
+    "tractId": 142,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1589680722041917,
+      "percentCommercial": 0.36016637646473193,
+      "percentIndustrial": 0.019792536674368907
+    },
+    "Number": "A32033",
+    "Name": "The Eddy - New St at Sumner St",
+    "Latitude": "42.370744",
+    "Longitude": "-71.044201",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "C32028",
+    "Name": "The Lawn on D",
+    "Latitude": "42.344792",
+    "Longitude": "-71.044024",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 45,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.7861257571791456,
+      "percentCommercial": 0.04486272487670463,
+      "percentIndustrial": 0.0016682012007499874
+    },
+    "Number": "C32049",
+    "Name": "Thetford Ave at Norfolk St",
+    "Latitude": "42.2862129482",
+    "Longitude": "-71.0794293137",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32048",
+    "Name": "Third at Binney",
+    "Latitude": "42.3654448614",
+    "Longitude": "-71.0827714205",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 175,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.30474460181482305,
+      "percentCommercial": 0.5678720072085607,
+      "percentIndustrial": 0.0381493312908148
+    },
+    "Number": "C32000",
+    "Name": "Tremont St at E Berkeley St",
+    "Latitude": "42.345392",
+    "Longitude": "-71.069616",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "B32056",
+    "Name": "Tremont St at Hamilton Pl",
+    "Latitude": "42.3566833497",
+    "Longitude": "-71.0616664588",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 118,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.5647518782130961,
+      "percentCommercial": 0.11292931167682983,
+      "percentIndustrial": 0
+    },
+    "Number": "C32056",
+    "Name": "Tremont St at Northampton St",
+    "Latitude": "42.3388955964",
+    "Longitude": "-71.0814997561",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 121,
+    "tractMetadata": {
+      "CanopyPercent": 0.05,
+      "percentResidential": 0.49474185779852403,
+      "percentCommercial": 0.060437136136608303,
+      "percentIndustrial": 0.012952716081297829
+    },
+    "Number": "C32060",
+    "Name": "Tremont St at W. Dedham St",
+    "Latitude": "42.3425491374",
+    "Longitude": "-71.0742144939",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 124,
+    "tractMetadata": {
+      "CanopyPercent": 0.01,
+      "percentResidential": 0.1761613780891676,
+      "percentCommercial": 0.3661656804859024,
+      "percentIndustrial": 0.014401215450168658
+    },
+    "Number": "D32014",
+    "Name": "Tremont St at West St",
+    "Latitude": "42.354979",
+    "Longitude": "-71.063348",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 175,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.30474460181482305,
+      "percentCommercial": 0.5678720072085607,
+      "percentIndustrial": 0.0381493312908148
+    },
+    "Number": "C32035",
+    "Name": "Troy Boston",
+    "Latitude": "42.343749",
+    "Longitude": "-71.062256",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "tractId": 166,
+    "tractMetadata": {
+      "CanopyPercent": 0.09,
+      "percentResidential": 0.33318783130674473,
+      "percentCommercial": 0.27058571907610063,
+      "percentIndustrial": 0
+    },
+    "Number": "A32001",
+    "Name": "Union Square - Brighton Ave at Cambridge St",
+    "Latitude": "42.353334",
+    "Longitude": "-71.137313",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32002",
+    "Name": "Union Square - Somerville",
+    "Latitude": "42.379674481",
+    "Longitude": "-71.0939132424",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 131,
+    "tractMetadata": {
+      "CanopyPercent": 0.08,
+      "percentResidential": 0.10784063035411451,
+      "percentCommercial": 0.06013853184133587,
+      "percentIndustrial": 0
+    },
+    "Number": "C32014",
+    "Name": "University of Massachusetts Boston - Campus Center",
+    "Latitude": "42.3121891848",
+    "Longitude": "-71.036485862",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32040",
+    "Name": "University Park",
+    "Latitude": "42.3626477912",
+    "Longitude": "-71.1000609398",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 71,
+    "tractMetadata": {
+      "CanopyPercent": 0.05,
+      "percentResidential": 0.5241662341705293,
+      "percentCommercial": 0.16866711437291446,
+      "percentIndustrial": 0.014615390728275572
+    },
+    "Number": "C32019",
+    "Name": "Uphams Corner",
+    "Latitude": "42.3172747433",
+    "Longitude": "-71.0653700397",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 70,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.7402168129801642,
+      "percentCommercial": 0.05354847385005389,
+      "percentIndustrial": 0
+    },
+    "Number": "B32025",
+    "Name": "Uphams Corner T Stop - Magnolia St at Dudley St",
+    "Latitude": "42.3186973417",
+    "Longitude": "-71.0697814822",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "M32057",
+    "Name": "Vassal Lane at Tobin/VLUS",
+    "Latitude": "42.3839322489",
+    "Longitude": "-71.1396127196",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "M32050",
+    "Name": "Verizon Innovation Hub 10 Ware Street",
+    "Latitude": "42.37250865",
+    "Longitude": "-71.1130535603",
+    "District": "Cambridge",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 128,
+    "tractMetadata": {
+      "CanopyPercent": 0.005,
+      "percentResidential": 0,
+      "percentCommercial": 0,
+      "percentIndustrial": 0
+    },
+    "Number": "C32029",
+    "Name": "W Broadway at D St",
+    "Latitude": "42.3391085",
+    "Longitude": "-71.0514432",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 162,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.5926534721595822,
+      "percentCommercial": 0.24642257838121404,
+      "percentIndustrial": 0.008823253864675275
+    },
+    "Number": "C32016",
+    "Name": "W Broadway at Dorchester St",
+    "Latitude": "42.3359589794",
+    "Longitude": "-71.0462289956",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 90,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.559707541595404,
+      "percentCommercial": 0.06511109036318755,
+      "percentIndustrial": 0.02143524333489191
+    },
+    "Number": "B32030",
+    "Name": "Walnut Ave at Warren St",
+    "Latitude": "42.324081",
+    "Longitude": "-71.083235",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 164,
+    "tractMetadata": {
+      "CanopyPercent": 0.02,
+      "percentResidential": 0.3661983074390595,
+      "percentCommercial": 0.08090193355417612,
+      "percentIndustrial": 0
+    },
+    "Number": "D32021",
+    "Name": "Warren St at Chelsea St",
+    "Latitude": "42.371848",
+    "Longitude": "-71.060292",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 57,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.7735859536417414,
+      "percentCommercial": 0.03218515916212966,
+      "percentIndustrial": 0.010167360392710816
+    },
+    "Number": "C32042",
+    "Name": "Washington St at Bradlee St",
+    "Latitude": "42.2991649794",
+    "Longitude": "-71.0734587165",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 171,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.7492022481486408,
+      "percentCommercial": 0.09657442278662104,
+      "percentIndustrial": 0
+    },
+    "Number": "D32029",
+    "Name": "Washington St at Brock St",
+    "Latitude": "42.3489528467",
+    "Longitude": "-71.1603167653",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 33,
+    "tractMetadata": {
+      "CanopyPercent": 0.13,
+      "percentResidential": 0.8807849503750826,
+      "percentCommercial": 0.10361190113594204,
+      "percentIndustrial": 0
+    },
+    "Number": "C32081",
+    "Name": "Washington St at Denton Terr",
+    "Latitude": "42.2807281472",
+    "Longitude": "-71.1342375727",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 9,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.7631110980788868,
+      "percentCommercial": 0.1465191813302137,
+      "percentIndustrial": 0.006387281488430451
+    },
+    "Number": "A32037",
+    "Name": "Washington St at Egremont Rd",
+    "Latitude": "42.3428683507",
+    "Longitude": "-71.1412784086",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 44,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.8522135504095276,
+      "percentCommercial": 0.027824035028066248,
+      "percentIndustrial": 0
+    },
+    "Number": "C32084",
+    "Name": "Washington St at Fuller St",
+    "Latitude": "42.2819862773",
+    "Longitude": "-71.0714792462",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "Number": "K32011",
+    "Name": "Washington St at Griggs Rd",
+    "Latitude": "42.3383342372",
+    "Longitude": "-71.1305093022",
+    "District": "Brookline",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 105,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.468846664766389,
+      "percentCommercial": 0.16054080754376573,
+      "percentIndustrial": 0
+    },
+    "Number": "C32005",
+    "Name": "Washington St at Lenox St",
+    "Latitude": "42.3350989929",
+    "Longitude": "-71.0790377855",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 106,
+    "tractMetadata": {
+      "CanopyPercent": 0.07,
+      "percentResidential": 0.2100711465221786,
+      "percentCommercial": 0.2528311882640271,
+      "percentIndustrial": 0.005729183221202555
+    },
+    "Number": "B32026",
+    "Name": "Washington St at Melnea Cass Blvd",
+    "Latitude": "42.332817",
+    "Longitude": "-71.081198",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32021",
+    "Name": "Washington St at Myrtle St",
+    "Latitude": "42.3809979976",
+    "Longitude": "-71.0872130843",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 121,
+    "tractMetadata": {
+      "CanopyPercent": 0.05,
+      "percentResidential": 0.49474185779852403,
+      "percentCommercial": 0.060437136136608303,
+      "percentIndustrial": 0.012952716081297829
+    },
+    "Number": "C32067",
+    "Name": "Washington St at Peters Park",
+    "Latitude": "42.3430329113",
+    "Longitude": "-71.0668873044",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 108,
+    "tractMetadata": {
+      "CanopyPercent": 0.04,
+      "percentResidential": 0.29500131614712827,
+      "percentCommercial": 0.10482690986237633,
+      "percentIndustrial": 0.0009386115625225195
+    },
+    "Number": "C32006",
+    "Name": "Washington St at Rutland St",
+    "Latitude": "42.3385146018",
+    "Longitude": "-71.0740408301",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "23"
+  },
+  {
+    "tractId": 55,
+    "tractMetadata": {
+      "CanopyPercent": 0.1,
+      "percentResidential": 0.799671128749491,
+      "percentCommercial": 0.07039392355707624,
+      "percentIndustrial": 0
+    },
+    "Number": "C32038",
+    "Name": "Washington St at Talbot Ave",
+    "Latitude": "42.290333",
+    "Longitude": "-71.071806",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "17"
+  },
+  {
+    "tractId": 40,
+    "tractMetadata": {
+      "CanopyPercent": 0.16,
+      "percentResidential": 0.7215865032312168,
+      "percentCommercial": 0.09038839640732206,
+      "percentIndustrial": 0.0016079474009976175
+    },
+    "Number": "C32083",
+    "Name": "Washington St at Walsh Playground",
+    "Latitude": "42.2771946964",
+    "Longitude": "-71.0695561395",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 67,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.16418482152109073,
+      "percentCommercial": 0.3172799216603933,
+      "percentIndustrial": 0.04030307122442012
+    },
+    "Number": "D32002",
+    "Name": "Washington St at Waltham St",
+    "Latitude": "42.3415598497",
+    "Longitude": "-71.0688695312",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 134,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.22668456526087155,
+      "percentCommercial": 0.40055244830307907,
+      "percentIndustrial": 0.0021942070298352043
+    },
+    "Number": "C32034",
+    "Name": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+    "Latitude": "42.3515860012",
+    "Longitude": "-71.0456925631",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "15"
+  },
+  {
+    "tractId": 157,
+    "tractMetadata": {
+      "CanopyPercent": 0.12,
+      "percentResidential": 0.02912785129259376,
+      "percentCommercial": 0.027643701685647178,
+      "percentIndustrial": 0
+    },
+    "Number": "B32021",
+    "Name": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+    "Latitude": "42.337586011",
+    "Longitude": "-71.0962709785",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "14"
+  },
+  {
+    "tractId": 174,
+    "tractMetadata": {
+      "CanopyPercent": 0,
+      "percentResidential": 0.25185576780033836,
+      "percentCommercial": 0.3014081472224186,
+      "percentIndustrial": 0
+    },
+    "Number": "D32022",
+    "Name": "West End Park",
+    "Latitude": "42.3659078845",
+    "Longitude": "-71.0644666851",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "35"
+  },
+  {
+    "tractId": 181,
+    "tractMetadata": {
+      "CanopyPercent": 0.06,
+      "percentResidential": 0.2311807754143891,
+      "percentCommercial": 0.33223537946441895,
+      "percentIndustrial": 0.04172968484423853
+    },
+    "Number": "A32043",
+    "Name": "Western Ave at Richardson St",
+    "Latitude": "42.3617874107",
+    "Longitude": "-71.1439311133",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "0"
+  },
+  {
+    "tractId": 104,
+    "tractMetadata": {
+      "CanopyPercent": 0.03,
+      "percentResidential": 0.10739193146339059,
+      "percentCommercial": 0.08145369045311189,
+      "percentIndustrial": 0.0018227786268161406
+    },
+    "Number": "B32059",
+    "Name": "Whittier St Health Center",
+    "Latitude": "42.3328628849",
+    "Longitude": "-71.0921886192",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "tractId": 14,
+    "tractMetadata": {
+      "CanopyPercent": 0.14,
+      "percentResidential": 0.4612358232423815,
+      "percentCommercial": 0.14643625487238485,
+      "percentIndustrial": 0.021121097809435753
+    },
+    "Number": "D32040",
+    "Name": "Williams St at Washington St",
+    "Latitude": "42.306539",
+    "Longitude": "-71.107669",
+    "District": "Boston",
+    "Public": "Yes",
+    "Total docks": "19"
+  },
+  {
+    "Number": "S32005",
+    "Name": "Wilson Square",
+    "Latitude": "42.3856757875",
+    "Longitude": "-71.114121363",
+    "District": "Somerville",
+    "Public": "Yes",
+    "Total docks": "15"
+  }
+]
