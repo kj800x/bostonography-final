@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>BlueBikes Visualization 2019</title>
+    <title>BlueBikes Visualization 2020</title>
     <script src="/node_modules/d3/dist/d3.min.js"></script>
     <script src="/node_modules/crossfilter2/crossfilter.min.js"></script>
     <script src="/bar.js"></script>
     <script>
-      window.DATA_URL = "/trips.json";
-      window.MIN_DATE = new Date(2019, 0, 1);
-      window.MAX_DATE = new Date(2019, 12, 1);
+      window.DATA_URL = "/trips_2020.json";
+      window.MIN_DATE = new Date(2020, 0, 1);
+      window.MAX_DATE = new Date(2020, 12, 1);
     </script>
     <script src="/visualizer.js"></script>
     <link rel="stylesheet" href="/styles.css" />
@@ -16,12 +16,14 @@
   </head>
   <body>
     <nav>
-      <span>Project</span>
-      <a href="/2020.html">2020</a>
+      <a href="/">Project</a>
+      <span>2020</span>
       <a href="/about.html">About</a>
       <a href="/report.pdf">Report</a>
     </nav>
-    <h1 class="text-center">BlueBikes Visualization for Year of 2019</h1>
+    <h1 class="text-center">
+      BlueBikes Visualization for Year of 2020 (as available)
+    </h1>
     <div id="loading">
       <h2 class="text-center">Loading...</h2>
     </div>

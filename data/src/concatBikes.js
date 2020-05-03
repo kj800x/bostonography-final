@@ -6,15 +6,15 @@ const { weatherFor } = require("./weatherData");
 const leftpad = (s) => (("" + s).length === 1 ? "0" + s : s);
 
 const files = [];
-for (let i = 1; i <= 12; i++) {
-  files.push(`./usage-data/2019${leftpad(i)}-bluebikes-tripdata.csv`);
+for (let i = 1; i <= 3; i++) {
+  files.push(`./usage-data/2020${leftpad(i)}-bluebikes-tripdata.csv`);
 }
 
 const sample = (skip) => (data) => {
   return data.filter((_, i) => i % skip === 0);
 };
 
-const SAMPLE_RATE = 10; // Only 1 in SAMPLE_RATE trips will be included, otherwise we run out of memory on my computer
+const SAMPLE_RATE = 1; // Only 1 in SAMPLE_RATE trips will be included, otherwise we run out of memory on my computer
 
 function process(data, stationData) {
   data = sample(SAMPLE_RATE)(data);

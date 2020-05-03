@@ -1,5 +1,5 @@
 async function visualize() {
-  let data = await d3.json("/trips.json");
+  let data = await d3.json(window.DATA_URL);
 
   const DOW = ["S", "S", "M", "T", "W", "R", "F"];
 
@@ -144,7 +144,7 @@ async function visualize() {
       .x(
         d3
           .scaleTime()
-          .domain([new Date(2019, 0, 1), new Date(2019, 12, 1)])
+          .domain([window.MIN_DATE, window.MAX_DATE])
           .rangeRound([0, 10 * 115])
       ),
 
